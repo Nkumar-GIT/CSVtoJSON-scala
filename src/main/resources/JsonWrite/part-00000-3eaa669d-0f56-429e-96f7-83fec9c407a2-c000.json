@@ -1,0 +1,529 @@
+{"col1":"Id","col2":"Loc","col3":"Ref","col4":"DeliveryDate","col5":"Quantity","col6":"Received","col7":"NetAmount","col8":"Supplier","col9":"PONumber","col10":"Date","col11":"Currency"}
+{"col1":"15641711/Los Angeles","col2":"Los Angeles","col3":"15641711","col4":"22-06-16","col5":"50","col6":"50","col7":"164.9999975","col8":"FHL","col9":"PO-200193","col10":"20-04-16","col11":"USD"}
+{"col1":"15641711/Los Angeles","col2":"Los Angeles","col3":"15641711","col4":"29-07-16","col5":"47","col6":"47","col7":"155.0999977","col8":"FHL","col9":"PO-200243","col10":"26-07-16","col11":"USD"}
+{"col1":"16075571/Los Angeles","col2":"Los Angeles","col3":"16075571","col4":"22-06-16","col5":"100","col6":"100","col7":"300","col8":"Logipro","col9":"PO-200193","col10":"20-04-16","col11":"GBP"}
+{"col1":"16075571/Los Angeles","col2":"Los Angeles","col3":"16075571","col4":"29-07-16","col5":"300","col6":"300","col7":"900","col8":"Logipro","col9":"PO-200243","col10":"26-07-16","col11":"GBP"}
+{"col1":"16075571/Los Angeles","col2":"Los Angeles","col3":"16075571","col4":"1/1/2001","col5":"121","col6":"0","col7":"363","col8":"Logipro","col9":"PO-200271","col10":"24-08-16","col11":"GBP"}
+{"col1":"14759689/Los Angeles","col2":"Los Angeles","col3":"14759689","col4":"1/1/2001","col5":"103","col6":"0","col7":"336.8099979","col8":"Drecom","col9":"PO-200271","col10":"24-08-16","col11":"GBP"}
+{"col1":"14095459/Los Angeles","col2":"Los Angeles","col3":"14095459","col4":"1/1/2001","col5":"100","col6":"0","col7":"4654.99992","col8":"Drecom","col9":"PO-200225","col10":"8/6/2016","col11":"USD"}
+{"col1":"15586718/Los Angeles","col2":"Los Angeles","col3":"15586718","col4":"1/1/2001","col5":"200","col6":"0","col7":"11400","col8":"Drecom","col9":"PO-200225","col10":"8/6/2016","col11":"GBP"}
+{"col1":"10095232/Los Angeles","col2":"Los Angeles","col3":"10095232","col4":"5/8/2015","col5":"150","col6":"150","col7":"4002.000045","col8":"Office First","col9":"102196","col10":"27-05-15","col11":"EUR"}
+{"col1":"10095232/Los Angeles","col2":"Los Angeles","col3":"10095232","col4":"21-06-16","col5":"100","col6":"100","col7":"2668.00003","col8":"Office First","col9":"PO-200069","col10":"25-11-15","col11":"EUR"}
+{"col1":"10095232/Los Angeles","col2":"Los Angeles","col3":"10095232","col4":"20-06-16","col5":"100","col6":"100","col7":"2668.00003","col8":"Office First","col9":"PO-200081","col10":"10/12/2015","col11":"EUR"}
+{"col1":"11481389/Los Angeles","col2":"Los Angeles","col3":"11481389","col4":"1/1/2001","col5":"2","col6":"0","col7":"26.4799996","col8":"SuperSupply","col9":"PO-200257","col10":"4/8/2016","col11":"GBP"}
+{"col1":"15431986/Los Angeles","col2":"Los Angeles","col3":"15431986","col4":"21-06-16","col5":"24","col6":"24","col7":"291.1200024","col8":"Logipro","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"15431986/Los Angeles","col2":"Los Angeles","col3":"15431986","col4":"1/1/2001","col5":"6","col6":"0","col7":"72.7800006","col8":"Logipro","col9":"PO-200271","col10":"24-08-16","col11":"GBP"}
+{"col1":"12768029/Los Angeles","col2":"Los Angeles","col3":"12768029","col4":"14-06-16","col5":"12","col6":"12","col7":"218.4000096","col8":"FHL","col9":"PO-200099","col10":"7/1/2016","col11":"USD"}
+{"col1":"12768029/Los Angeles","col2":"Los Angeles","col3":"12768029","col4":"1/1/2001","col5":"2","col6":"0","col7":"36.4000016","col8":"FHL","col9":"PO-200257","col10":"4/8/2016","col11":"USD"}
+{"col1":"15343952/Los Angeles","col2":"Los Angeles","col3":"15343952","col4":"1/1/2001","col5":"120","col6":"0","col7":"2743.200072","col8":"Logipro","col9":"PO-EE-BO-Atlanta","col10":"30-10-15","col11":"GBP"}
+{"col1":"15343952/Los Angeles","col2":"Los Angeles","col3":"15343952","col4":"4/10/2016","col5":"40","col6":"0","col7":"914.400024","col8":"Logipro","col9":"PO-200244","col10":"26-07-16","col11":"GBP"}
+{"col1":"14693335/Los Angeles","col2":"Los Angeles","col3":"14693335","col4":"4/10/2016","col5":"32","col6":"0","col7":"1126.719971","col8":"Drecom","col9":"PO-200244","col10":"26-07-16","col11":"USD"}
+{"col1":"11711636/Los Angeles","col2":"Los Angeles","col3":"11711636","col4":"1/1/2001","col5":"40","col6":"0","col7":"996.399992","col8":"RRD","col9":"PO-EE-BO-Atlanta","col10":"30-10-15","col11":"USD"}
+{"col1":"11711636/Los Angeles","col2":"Los Angeles","col3":"11711636","col4":"21-06-16","col5":"16","col6":"16","col7":"398.5599968","col8":"RRD","col9":"PO-200069","col10":"25-11-15","col11":"USD"}
+{"col1":"11711636/Los Angeles","col2":"Los Angeles","col3":"11711636","col4":"1/1/2001","col5":"20","col6":"0","col7":"498.199996","col8":"RRD","col9":"PO-200267","col10":"18-08-16","col11":"USD"}
+{"col1":"11941800/Los Angeles","col2":"Los Angeles","col3":"11941800","col4":"1/1/2001","col5":"40","col6":"0","col7":"996.399992","col8":"Drecom","col9":"PO-EE-BO-Atlanta","col10":"30-10-15","col11":"GBP"}
+{"col1":"11941800/Los Angeles","col2":"Los Angeles","col3":"11941800","col4":"21-06-16","col5":"16","col6":"16","col7":"398.5599968","col8":"Drecom","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"11941800/Los Angeles","col2":"Los Angeles","col3":"11941800","col4":"1/1/2001","col5":"20","col6":"0","col7":"498.199996","col8":"Drecom","col9":"PO-200267","col10":"18-08-16","col11":"GBP"}
+{"col1":"11711100/Los Angeles","col2":"Los Angeles","col3":"11711100","col4":"1/1/2001","col5":"24","col6":"0","col7":"335.2800072","col8":"Office First","col9":"PO-200277","col10":"31-08-16","col11":"USD"}
+{"col1":"10595489/Los Angeles","col2":"Los Angeles","col3":"10595489","col4":"5/8/2015","col5":"18","col6":"18","col7":"681.1200036","col8":"SuperSupply","col9":"102196","col10":"27-05-15","col11":"EUR"}
+{"col1":"10595489/Los Angeles","col2":"Los Angeles","col3":"10595489","col4":"21-06-16","col5":"12","col6":"12","col7":"454.0800024","col8":"SuperSupply","col9":"PO-200069","col10":"25-11-15","col11":"EUR"}
+{"col1":"10595489/Los Angeles","col2":"Los Angeles","col3":"10595489","col4":"12/9/2016","col5":"20","col6":"0","col7":"756.800004","col8":"SuperSupply","col9":"PO-200236","col10":"13-07-16","col11":"EUR"}
+{"col1":"10678449/Los Angeles","col2":"Los Angeles","col3":"10678449","col4":"4/10/2016","col5":"20","col6":"0","col7":"661.200028","col8":"SuperSupply","col9":"PO-200244","col10":"26-07-16","col11":"USD"}
+{"col1":"10099950/Los Angeles","col2":"Los Angeles","col3":"10099950","col4":"12/9/2016","col5":"20","col6":"0","col7":"661.200028","col8":"Logipro","col9":"PO-200236","col10":"13-07-16","col11":"USD"}
+{"col1":"16401974/Los Angeles","col2":"Los Angeles","col3":"16401974","col4":"21-06-16","col5":"10","col6":"10","col7":"389.900017","col8":"Office First","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"11914966/Los Angeles","col2":"Los Angeles","col3":"11914966","col4":"5/8/2015","col5":"20","col6":"20","col7":"570.200004","col8":"Office First","col9":"102196","col10":"27-05-15","col11":"USD"}
+{"col1":"11914966/Los Angeles","col2":"Los Angeles","col3":"11914966","col4":"1/1/2001","col5":"20","col6":"0","col7":"570.200004","col8":"Office First","col9":"PO-EE-BO-Atlanta","col10":"30-10-15","col11":"USD"}
+{"col1":"11914966/Los Angeles","col2":"Los Angeles","col3":"11914966","col4":"21-06-16","col5":"20","col6":"20","col7":"570.200004","col8":"Office First","col9":"PO-200069","col10":"25-11-15","col11":"USD"}
+{"col1":"11914966/Los Angeles","col2":"Los Angeles","col3":"11914966","col4":"12/9/2016","col5":"20","col6":"0","col7":"570.200004","col8":"Office First","col9":"PO-200236","col10":"13-07-16","col11":"USD"}
+{"col1":"14895172/Los Angeles","col2":"Los Angeles","col3":"14895172","col4":"21-06-16","col5":"16","col6":"16","col7":"465.6000064","col8":"Logipro","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"15416092/Los Angeles","col2":"Los Angeles","col3":"15416092","col4":"1/1/2001","col5":"24","col6":"0","col7":"531.5999904","col8":"RRD","col9":"PO-200267","col10":"18-08-16","col11":"EUR"}
+{"col1":"12409642/Los Angeles","col2":"Los Angeles","col3":"12409642","col4":"4/10/2016","col5":"24","col6":"0","col7":"1129.440034","col8":"Office First","col9":"PO-200244","col10":"26-07-16","col11":"GBP"}
+{"col1":"12409642/Los Angeles","col2":"Los Angeles","col3":"12409642","col4":"1/1/2001","col5":"4","col6":"0","col7":"188.2400056","col8":"Office First","col9":"PO-200257","col10":"4/8/2016","col11":"GBP"}
+{"col1":"12409642/Los Angeles","col2":"Los Angeles","col3":"12409642","col4":"1/1/2001","col5":"40","col6":"0","col7":"1882.400056","col8":"Office First","col9":"PO-200277","col10":"31-08-16","col11":"GBP"}
+{"col1":"11906239/Los Angeles","col2":"Los Angeles","col3":"11906239","col4":"5/8/2015","col5":"35","col6":"35","col7":"1096.549997","col8":"Drecom","col9":"102196","col10":"27-05-15","col11":"GBP"}
+{"col1":"11906239/Los Angeles","col2":"Los Angeles","col3":"11906239","col4":"14-06-16","col5":"100","col6":"100","col7":"3132.99999","col8":"Drecom","col9":"PO-200099","col10":"7/1/2016","col11":"GBP"}
+{"col1":"11906239/Los Angeles","col2":"Los Angeles","col3":"11906239","col4":"1/1/2001","col5":"30","col6":"0","col7":"939.899997","col8":"Drecom","col9":"PO-200292","col10":"4/10/2016","col11":"GBP"}
+{"col1":"11929369/Los Angeles","col2":"Los Angeles","col3":"11929369","col4":"1/1/2001","col5":"2","col6":"0","col7":"17.70000076","col8":"Logipro","col9":"PO-200271","col10":"24-08-16","col11":"GBP"}
+{"col1":"14262733/Los Angeles","col2":"Los Angeles","col3":"14262733","col4":"1/1/2001","col5":"28","col6":"0","col7":"605.9199832","col8":"Drecom","col9":"PO-EE-BO-Atlanta","col10":"30-10-15","col11":"GBP"}
+{"col1":"14262733/Los Angeles","col2":"Los Angeles","col3":"14262733","col4":"21-06-16","col5":"20","col6":"20","col7":"432.799988","col8":"Drecom","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"12918171/Los Angeles","col2":"Los Angeles","col3":"12918171","col4":"1/1/2001","col5":"2","col6":"0","col7":"9.6800003","col8":"Drecom","col9":"PO-200257","col10":"4/8/2016","col11":"EUR"}
+{"col1":"15410849/Los Angeles","col2":"Los Angeles","col3":"15410849","col4":"5/8/2015","col5":"16","col6":"16","col7":"938.2399904","col8":"RRD","col9":"102196","col10":"27-05-15","col11":"USD"}
+{"col1":"15410849/Los Angeles","col2":"Los Angeles","col3":"15410849","col4":"14-06-16","col5":"20","col6":"20","col7":"1172.799988","col8":"RRD","col9":"PO-200099","col10":"7/1/2016","col11":"USD"}
+{"col1":"15410849/Los Angeles","col2":"Los Angeles","col3":"15410849","col4":"12/9/2016","col5":"40","col6":"0","col7":"2345.599976","col8":"RRD","col9":"PO-200236","col10":"13-07-16","col11":"USD"}
+{"col1":"15410849/Los Angeles","col2":"Los Angeles","col3":"15410849","col4":"1/1/2001","col5":"22","col6":"0","col7":"1290.079987","col8":"RRD","col9":"PO-200292","col10":"4/10/2016","col11":"USD"}
+{"col1":"13498766/Los Angeles","col2":"Los Angeles","col3":"13498766","col4":"5/8/2015","col5":"36","col6":"36","col7":"666","col8":"Logipro","col9":"102196","col10":"27-05-15","col11":"EUR"}
+{"col1":"13498766/Los Angeles","col2":"Los Angeles","col3":"13498766","col4":"21-06-16","col5":"30","col6":"30","col7":"555","col8":"Logipro","col9":"PO-200069","col10":"25-11-15","col11":"EUR"}
+{"col1":"13498766/Los Angeles","col2":"Los Angeles","col3":"13498766","col4":"20-06-16","col5":"60","col6":"60","col7":"1110","col8":"Logipro","col9":"PO-200081","col10":"10/12/2015","col11":"EUR"}
+{"col1":"13498766/Los Angeles","col2":"Los Angeles","col3":"13498766","col4":"12/9/2016","col5":"30","col6":"0","col7":"555","col8":"Logipro","col9":"PO-200236","col10":"13-07-16","col11":"EUR"}
+{"col1":"13498766/Los Angeles","col2":"Los Angeles","col3":"13498766","col4":"1/1/2001","col5":"30","col6":"0","col7":"555","col8":"Logipro","col9":"PO-200292","col10":"4/10/2016","col11":"EUR"}
+{"col1":"10592438/Los Angeles","col2":"Los Angeles","col3":"10592438","col4":"29-07-16","col5":"36","col6":"36","col7":"123.8400022","col8":"Logipro","col9":"PO-200243","col10":"26-07-16","col11":"EUR"}
+{"col1":"16089695/Los Angeles","col2":"Los Angeles","col3":"16089695","col4":"29-07-16","col5":"34","col6":"34","col7":"116.960002","col8":"Logipro","col9":"PO-200243","col10":"26-07-16","col11":"GBP"}
+{"col1":"15880950/Los Angeles","col2":"Los Angeles","col3":"15880950","col4":"12/9/2016","col5":"40","col6":"0","col7":"1078.000032","col8":"RRD","col9":"PO-200236","col10":"13-07-16","col11":"EUR"}
+{"col1":"15880950/Los Angeles","col2":"Los Angeles","col3":"15880950","col4":"1/1/2001","col5":"24","col6":"0","col7":"646.8000192","col8":"RRD","col9":"PO-200292","col10":"4/10/2016","col11":"EUR"}
+{"col1":"14548487/Los Angeles","col2":"Los Angeles","col3":"14548487","col4":"14-06-16","col5":"20","col6":"20","col7":"539.000016","col8":"Drecom","col9":"PO-200099","col10":"7/1/2016","col11":"EUR"}
+{"col1":"14548487/Los Angeles","col2":"Los Angeles","col3":"14548487","col4":"12/9/2016","col5":"20","col6":"0","col7":"539.000016","col8":"Drecom","col9":"PO-200236","col10":"13-07-16","col11":"EUR"}
+{"col1":"14548487/Los Angeles","col2":"Los Angeles","col3":"14548487","col4":"1/1/2001","col5":"32","col6":"0","col7":"862.4000256","col8":"Drecom","col9":"PO-200292","col10":"4/10/2016","col11":"EUR"}
+{"col1":"12753764/Los Angeles","col2":"Los Angeles","col3":"12753764","col4":"20-06-16","col5":"60","col6":"60","col7":"688.79997","col8":"FHL","col9":"PO-200081","col10":"10/12/2015","col11":"USD"}
+{"col1":"12753764/Los Angeles","col2":"Los Angeles","col3":"12753764","col4":"14-06-16","col5":"60","col6":"60","col7":"688.79997","col8":"FHL","col9":"PO-200099","col10":"7/1/2016","col11":"USD"}
+{"col1":"13856231/Los Angeles","col2":"Los Angeles","col3":"13856231","col4":"1/1/2001","col5":"30","col6":"0","col7":"1327.200051","col8":"SuperSupply","col9":"PO-200267","col10":"18-08-16","col11":"GBP"}
+{"col1":"12569093/Los Angeles","col2":"Los Angeles","col3":"12569093","col4":"4/10/2016","col5":"40","col6":"0","col7":"895.199968","col8":"Office First","col9":"PO-200244","col10":"26-07-16","col11":"GBP"}
+{"col1":"12561507/Los Angeles","col2":"Los Angeles","col3":"12561507","col4":"5/8/2015","col5":"20","col6":"20","col7":"586.800004","col8":"FHL","col9":"102196","col10":"27-05-15","col11":"GBP"}
+{"col1":"12561507/Los Angeles","col2":"Los Angeles","col3":"12561507","col4":"21-06-16","col5":"40","col6":"40","col7":"1173.600008","col8":"FHL","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"12561507/Los Angeles","col2":"Los Angeles","col3":"12561507","col4":"20-06-16","col5":"60","col6":"60","col7":"1760.400012","col8":"FHL","col9":"PO-200081","col10":"10/12/2015","col11":"GBP"}
+{"col1":"12561507/Los Angeles","col2":"Los Angeles","col3":"12561507","col4":"14-06-16","col5":"40","col6":"40","col7":"1173.600008","col8":"FHL","col9":"PO-200099","col10":"7/1/2016","col11":"GBP"}
+{"col1":"12561507/Los Angeles","col2":"Los Angeles","col3":"12561507","col4":"12/9/2016","col5":"4","col6":"0","col7":"117.3600008","col8":"FHL","col9":"PO-200236","col10":"13-07-16","col11":"GBP"}
+{"col1":"12561507/Los Angeles","col2":"Los Angeles","col3":"12561507","col4":"4/10/2016","col5":"36","col6":"0","col7":"1056.240007","col8":"FHL","col9":"PO-200244","col10":"26-07-16","col11":"GBP"}
+{"col1":"12572098/Los Angeles","col2":"Los Angeles","col3":"12572098","col4":"14-06-16","col5":"16","col6":"16","col7":"633.9199824","col8":"Logipro","col9":"PO-200099","col10":"7/1/2016","col11":"GBP"}
+{"col1":"13532626/Los Angeles","col2":"Los Angeles","col3":"13532626","col4":"1/1/2001","col5":"50","col6":"0","col7":"2982.500075","col8":"SuperSupply","col9":"PO-200225","col10":"8/6/2016","col11":"GBP"}
+{"col1":"14343336/Los Angeles","col2":"Los Angeles","col3":"14343336","col4":"1/1/2001","col5":"100","col6":"0","col7":"4940.00015","col8":"Drecom","col9":"PO-200225","col10":"8/6/2016","col11":"EUR"}
+{"col1":"10764226/Los Angeles","col2":"Los Angeles","col3":"10764226","col4":"14-06-16","col5":"12","col6":"12","col7":"208.4400096","col8":"SuperSupply","col9":"PO-200099","col10":"7/1/2016","col11":"USD"}
+{"col1":"14367353/Los Angeles","col2":"Los Angeles","col3":"14367353","col4":"5/8/2015","col5":"35","col6":"35","col7":"1477.000028","col8":"Drecom","col9":"102196","col10":"27-05-15","col11":"GBP"}
+{"col1":"10014552/Los Angeles","col2":"Los Angeles","col3":"10014552","col4":"1/1/2001","col5":"3","col6":"0","col7":"22.10999967","col8":"FHL","col9":"PO-200271","col10":"24-08-16","col11":"GBP"}
+{"col1":"11557472/Los Angeles","col2":"Los Angeles","col3":"11557472","col4":"22-03-16","col5":"235","col6":"235","col7":"5733.999906","col8":"SuperSupply","col9":"PO-200077","col10":"4/12/2015","col11":"GBP"}
+{"col1":"13594853/Los Angeles","col2":"Los Angeles","col3":"13594853","col4":"22-03-16","col5":"235","col6":"234","col7":"5733.999906","col8":"Drecom","col9":"PO-200077","col10":"4/12/2015","col11":"USD"}
+{"col1":"13336372/Los Angeles","col2":"Los Angeles","col3":"13336372","col4":"1/1/2001","col5":"4","col6":"0","col7":"122.239998","col8":"Office First","col9":"PO-200257","col10":"4/8/2016","col11":"EUR"}
+{"col1":"15808622/Los Angeles","col2":"Los Angeles","col3":"15808622","col4":"4/10/2016","col5":"24","col6":"0","col7":"1026.960022","col8":"Drecom","col9":"PO-200244","col10":"26-07-16","col11":"GBP"}
+{"col1":"15808622/Los Angeles","col2":"Los Angeles","col3":"15808622","col4":"1/1/2001","col5":"20","col6":"0","col7":"855.800018","col8":"Drecom","col9":"PO-200277","col10":"31-08-16","col11":"GBP"}
+{"col1":"15034737/Los Angeles","col2":"Los Angeles","col3":"15034737","col4":"4/10/2016","col5":"24","col6":"0","col7":"1196.399964","col8":"Logipro","col9":"PO-200244","col10":"26-07-16","col11":"EUR"}
+{"col1":"13452029/Los Angeles","col2":"Los Angeles","col3":"13452029","col4":"4/10/2016","col5":"24","col6":"0","col7":"1196.399964","col8":"RRD","col9":"PO-200244","col10":"26-07-16","col11":"USD"}
+{"col1":"16595101/Los Angeles","col2":"Los Angeles","col3":"16595101","col4":"12/9/2016","col5":"20","col6":"0","col7":"392.599984","col8":"FHL","col9":"PO-200236","col10":"13-07-16","col11":"EUR"}
+{"col1":"16595101/Los Angeles","col2":"Los Angeles","col3":"16595101","col4":"1/1/2001","col5":"24","col6":"0","col7":"471.1199808","col8":"FHL","col9":"PO-200292","col10":"4/10/2016","col11":"EUR"}
+{"col1":"16412231/Los Angeles","col2":"Los Angeles","col3":"16412231","col4":"13-09-16","col5":"150","col6":"0","col7":"3492.000105","col8":"Office First","col9":"PO-200219","col10":"7/6/2016","col11":"GBP"}
+{"col1":"11800905/Los Angeles","col2":"Los Angeles","col3":"11800905","col4":"29-07-16","col5":"6","col6":"6","col7":"107.2799952","col8":"Office First","col9":"PO-200243","col10":"26-07-16","col11":"USD"}
+{"col1":"14289423/Los Angeles","col2":"Los Angeles","col3":"14289423","col4":"12/9/2016","col5":"6","col6":"0","col7":"349.5","col8":"Drecom","col9":"PO-200236","col10":"13-07-16","col11":"EUR"}
+{"col1":"12572752/Los Angeles","col2":"Los Angeles","col3":"12572752","col4":"20-06-16","col5":"40","col6":"40","col7":"2116.399992","col8":"FHL","col9":"PO-200081","col10":"10/12/2015","col11":"EUR"}
+{"col1":"12572752/Los Angeles","col2":"Los Angeles","col3":"12572752","col4":"1/1/2001","col5":"1","col6":"0","col7":"52.9099998","col8":"FHL","col9":"PO-200271","col10":"24-08-16","col11":"EUR"}
+{"col1":"12572752/Los Angeles","col2":"Los Angeles","col3":"12572752","col4":"1/1/2001","col5":"20","col6":"0","col7":"1058.199996","col8":"FHL","col9":"PO-200292","col10":"4/10/2016","col11":"EUR"}
+{"col1":"15519926/Los Angeles","col2":"Los Angeles","col3":"15519926","col4":"20-06-16","col5":"40","col6":"40","col7":"2116.399992","col8":"Logipro","col9":"PO-200081","col10":"10/12/2015","col11":"USD"}
+{"col1":"15519926/Los Angeles","col2":"Los Angeles","col3":"15519926","col4":"1/1/2001","col5":"20","col6":"0","col7":"1058.199996","col8":"Logipro","col9":"PO-200292","col10":"4/10/2016","col11":"USD"}
+{"col1":"11097836/Los Angeles","col2":"Los Angeles","col3":"11097836","col4":"20-06-16","col5":"20","col6":"20","col7":"499.199982","col8":"SuperSupply","col9":"PO-200081","col10":"10/12/2015","col11":"GBP"}
+{"col1":"11097836/Los Angeles","col2":"Los Angeles","col3":"11097836","col4":"1/1/2001","col5":"32","col6":"0","col7":"798.7199712","col8":"SuperSupply","col9":"PO-200292","col10":"4/10/2016","col11":"GBP"}
+{"col1":"15092233/Los Angeles","col2":"Los Angeles","col3":"15092233","col4":"20-06-16","col5":"20","col6":"20","col7":"499.199982","col8":"Drecom","col9":"PO-200081","col10":"10/12/2015","col11":"EUR"}
+{"col1":"15092233/Los Angeles","col2":"Los Angeles","col3":"15092233","col4":"1/1/2001","col5":"32","col6":"0","col7":"798.7199712","col8":"Drecom","col9":"PO-200292","col10":"4/10/2016","col11":"EUR"}
+{"col1":"14789055/Los Angeles","col2":"Los Angeles","col3":"14789055","col4":"5/8/2015","col5":"40","col6":"40","col7":"920","col8":"FHL","col9":"102196","col10":"27-05-15","col11":"GBP"}
+{"col1":"14789055/Los Angeles","col2":"Los Angeles","col3":"14789055","col4":"21-06-16","col5":"40","col6":"40","col7":"920","col8":"FHL","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"14789055/Los Angeles","col2":"Los Angeles","col3":"14789055","col4":"20-06-16","col5":"40","col6":"40","col7":"920","col8":"FHL","col9":"PO-200081","col10":"10/12/2015","col11":"GBP"}
+{"col1":"14789055/Los Angeles","col2":"Los Angeles","col3":"14789055","col4":"12/9/2016","col5":"50","col6":"0","col7":"1150","col8":"FHL","col9":"PO-200236","col10":"13-07-16","col11":"GBP"}
+{"col1":"14789055/Los Angeles","col2":"Los Angeles","col3":"14789055","col4":"4/10/2016","col5":"20","col6":"0","col7":"460","col8":"FHL","col9":"PO-200244","col10":"26-07-16","col11":"GBP"}
+{"col1":"14789055/Los Angeles","col2":"Los Angeles","col3":"14789055","col4":"1/1/2001","col5":"40","col6":"0","col7":"920","col8":"FHL","col9":"PO-200277","col10":"31-08-16","col11":"GBP"}
+{"col1":"13474623/Los Angeles","col2":"Los Angeles","col3":"13474623","col4":"22-03-16","col5":"150","col6":"150","col7":"9602.99949","col8":"Drecom","col9":"PO-200077","col10":"4/12/2015","col11":"GBP"}
+{"col1":"13474623/Los Angeles","col2":"Los Angeles","col3":"13474623","col4":"13-09-16","col5":"200","col6":"0","col7":"12803.99932","col8":"Drecom","col9":"PO-200219","col10":"7/6/2016","col11":"GBP"}
+{"col1":"12564089/Los Angeles","col2":"Los Angeles","col3":"12564089","col4":"4/10/2016","col5":"12","col6":"0","col7":"369","col8":"FHL","col9":"PO-200244","col10":"26-07-16","col11":"EUR"}
+{"col1":"13107618/Los Angeles","col2":"Los Angeles","col3":"13107618","col4":"20-06-16","col5":"14","col6":"14","col7":"688.3799748","col8":"Logipro","col9":"PO-200081","col10":"10/12/2015","col11":"GBP"}
+{"col1":"16430058/Los Angeles","col2":"Los Angeles","col3":"16430058","col4":"22-06-16","col5":"200","col6":"200","col7":"571.99998","col8":"Office First","col9":"PO-200193","col10":"20-04-16","col11":"EUR"}
+{"col1":"16430058/Los Angeles","col2":"Los Angeles","col3":"16430058","col4":"29-07-16","col5":"300","col6":"300","col7":"857.99997","col8":"Office First","col9":"PO-200243","col10":"26-07-16","col11":"EUR"}
+{"col1":"16430058/Los Angeles","col2":"Los Angeles","col3":"16430058","col4":"1/1/2001","col5":"52","col6":"0","col7":"148.7199948","col8":"Office First","col9":"PO-200271","col10":"24-08-16","col11":"EUR"}
+{"col1":"11780124/Los Angeles","col2":"Los Angeles","col3":"11780124","col4":"22-06-16","col5":"500","col6":"500","col7":"1759.99999","col8":"SuperSupply","col9":"PO-200193","col10":"20-04-16","col11":"EUR"}
+{"col1":"11780124/Los Angeles","col2":"Los Angeles","col3":"11780124","col4":"1/1/2001","col5":"178","col6":"0","col7":"626.5599964","col8":"SuperSupply","col9":"PO-200257","col10":"4/8/2016","col11":"EUR"}
+{"col1":"10255812/Los Angeles","col2":"Los Angeles","col3":"10255812","col4":"22-06-16","col5":"200","col6":"200","col7":"200","col8":"RRD","col9":"PO-200193","col10":"20-04-16","col11":"GBP"}
+{"col1":"10255812/Los Angeles","col2":"Los Angeles","col3":"10255812","col4":"29-07-16","col5":"300","col6":"300","col7":"300","col8":"RRD","col9":"PO-200243","col10":"26-07-16","col11":"GBP"}
+{"col1":"10255812/Los Angeles","col2":"Los Angeles","col3":"10255812","col4":"1/1/2001","col5":"65","col6":"0","col7":"65","col8":"RRD","col9":"PO-200271","col10":"24-08-16","col11":"GBP"}
+{"col1":"16187687/Los Angeles","col2":"Los Angeles","col3":"16187687","col4":"4/10/2016","col5":"40","col6":"0","col7":"558.800012","col8":"Logipro","col9":"PO-200244","col10":"26-07-16","col11":"GBP"}
+{"col1":"16187687/Los Angeles","col2":"Los Angeles","col3":"16187687","col4":"1/1/2001","col5":"18","col6":"0","col7":"251.4600054","col8":"Logipro","col9":"PO-200292","col10":"4/10/2016","col11":"GBP"}
+{"col1":"11045096/Los Angeles","col2":"Los Angeles","col3":"11045096","col4":"1/1/2001","col5":"20","col6":"0","col7":"738.399964","col8":"Logipro","col9":"PO-200277","col10":"31-08-16","col11":"GBP"}
+{"col1":"13985896/Los Angeles","col2":"Los Angeles","col3":"13985896","col4":"1/1/2001","col5":"32","col6":"0","col7":"1457.920045","col8":"Drecom","col9":"PO-200277","col10":"31-08-16","col11":"GBP"}
+{"col1":"14901389/Los Angeles","col2":"Los Angeles","col3":"14901389","col4":"29-07-16","col5":"14","col6":"14","col7":"437.219993","col8":"Logipro","col9":"PO-200243","col10":"26-07-16","col11":"USD"}
+{"col1":"16363786/Los Angeles","col2":"Los Angeles","col3":"16363786","col4":"4/10/2016","col5":"20","col6":"0","col7":"467.999992","col8":"Drecom","col9":"PO-200244","col10":"26-07-16","col11":"USD"}
+{"col1":"16363786/Los Angeles","col2":"Los Angeles","col3":"16363786","col4":"1/1/2001","col5":"1","col6":"0","col7":"23.3999996","col8":"Drecom","col9":"PO-200257","col10":"4/8/2016","col11":"USD"}
+{"col1":"16018733/Los Angeles","col2":"Los Angeles","col3":"16018733","col4":"1/1/2001","col5":"20","col6":"0","col7":"407.200012","col8":"RRD","col9":"PO-EE-BO-Atlanta","col10":"30-10-15","col11":"USD"}
+{"col1":"16018733/Los Angeles","col2":"Los Angeles","col3":"16018733","col4":"21-06-16","col5":"12","col6":"12","col7":"244.3200072","col8":"RRD","col9":"PO-200069","col10":"25-11-15","col11":"USD"}
+{"col1":"16018733/Los Angeles","col2":"Los Angeles","col3":"16018733","col4":"1/1/2001","col5":"24","col6":"0","col7":"488.6400144","col8":"RRD","col9":"PO-200277","col10":"31-08-16","col11":"USD"}
+{"col1":"14099484/Los Angeles","col2":"Los Angeles","col3":"14099484","col4":"21-06-16","col5":"10","col6":"10","col7":"317.399998","col8":"Drecom","col9":"PO-200069","col10":"25-11-15","col11":"GBP"}
+{"col1":"14099484/Los Angeles","col2":"Los Angeles","col3":"14099484","col4":"20-06-16","col5":"20","col6":"20","col7":"634.799996","col8":"Drecom","col9":"PO-200081","col10":"10/12/2015","col11":"GBP"}
+{"col1":"14099484/Los Angeles","col2":"Los Angeles","col3":"14099484","col4":"1/1/2001","col5":"26","col6":"0","col7":"825.2399948","col8":"Drecom","col9":"PO-200267","col10":"18-08-16","col11":"GBP"}
+{"col1":"16277400/Los Angeles","col2":"Los Angeles","col3":"16277400","col4":"1/1/2001","col5":"40","col6":"0","col7":"901.600036","col8":"SuperSupply","col9":"PO-200267","col10":"18-08-16","col11":"USD"}
+{"col1":"12451991/Los Angeles","col2":"Los Angeles","col3":"12451991","col4":"1/1/2001","col5":"40","col6":"0","col7":"901.600036","col8":"RRD","col9":"PO-200267","col10":"18-08-16","col11":"GBP"}
+{"col1":"13060917/Los Angeles","col2":"Los Angeles","col3":"13060917","col4":"14-06-16","col5":"12","col6":"12","col7":"419.0399784","col8":"RRD","col9":"PO-200099","col10":"7/1/2016","col11":"EUR"}
+{"col1":"13060917/Los Angeles","col2":"Los Angeles","col3":"13060917","col4":"1/1/2001","col5":"20","col6":"0","col7":"698.399964","col8":"RRD","col9":"PO-200267","col10":"18-08-16","col11":"EUR"}
+{"col1":"14411646/Los Angeles","col2":"Los Angeles","col3":"14411646","col4":"1/1/2001","col5":"20","col6":"0","col7":"369.399986","col8":"Drecom","col9":"PO-200267","col10":"18-08-16","col11":"USD"}
+{"col1":"16188573/Los Angeles","col2":"Los Angeles","col3":"16188573","col4":"1/1/2001","col5":"20","col6":"0","col7":"369.399986","col8":"FHL","col9":"PO-200267","col10":"18-08-16","col11":"GBP"}
+{"col1":"15641711/New-York","col2":"New-York","col3":"15641711","col4":"12/4/2016","col5":"800","col6":"800","col7":"2639.99996","col8":"FHL","col9":"PO-200121","col10":"25-01-16","col11":"USD"}
+{"col1":"15641711/New-York","col2":"New-York","col3":"15641711","col4":"1/1/2001","col5":"100","col6":"0","col7":"329.999995","col8":"FHL","col9":"PO-200123","col10":"26-01-16","col11":"USD"}
+{"col1":"16075571/New-York","col2":"New-York","col3":"16075571","col4":"22-06-16","col5":"200","col6":"200","col7":"600","col8":"Logipro","col9":"PO-200131","col10":"9/2/2016","col11":"GBP"}
+{"col1":"16075571/New-York","col2":"New-York","col3":"16075571","col4":"1/8/2016","col5":"2400","col6":"2300","col7":"7200","col8":"Logipro","col9":"PO-200240","col10":"19-07-16","col11":"GBP"}
+{"col1":"16075571/New-York","col2":"New-York","col3":"16075571","col4":"5/8/2016","col5":"2100","col6":"2100","col7":"6300","col8":"Logipro","col9":"PO-200246","col10":"28-07-16","col11":"GBP"}
+{"col1":"14759689/New-York","col2":"New-York","col3":"14759689","col4":"8/2/2016","col5":"4000","col6":"4000","col7":"13079.99992","col8":"Drecom","col9":"PO-200101","col10":"12/1/2016","col11":"GBP"}
+{"col1":"14095459/New-York","col2":"New-York","col3":"14095459","col4":"28-10-15","col5":"3","col6":"3","col7":"139.6499976","col8":"Drecom","col9":"PO-200031","col10":"13-10-15","col11":"USD"}
+{"col1":"14095459/New-York","col2":"New-York","col3":"14095459","col4":"18-01-16","col5":"200","col6":"200","col7":"9309.99984","col8":"Drecom","col9":"PO-200088","col10":"17-12-15","col11":"USD"}
+{"col1":"14095459/New-York","col2":"New-York","col3":"14095459","col4":"29-08-16","col5":"100","col6":"100","col7":"4654.99992","col8":"Drecom","col9":"PO-200178","col10":"4/4/2016","col11":"USD"}
+{"col1":"13908259/New-York","col2":"New-York","col3":"13908259","col4":"18-01-16","col5":"300","col6":"300","col7":"10200","col8":"Drecom","col9":"PO-200088","col10":"17-12-15","col11":"EUR"}
+{"col1":"15586718/New-York","col2":"New-York","col3":"15586718","col4":"18-01-16","col5":"14","col6":"14","col7":"798","col8":"Drecom","col9":"PO-200088","col10":"17-12-15","col11":"GBP"}
+{"col1":"15586718/New-York","col2":"New-York","col3":"15586718","col4":"1/4/2016","col5":"110","col6":"110","col7":"6270","col8":"Drecom","col9":"PO-200118","col10":"21-01-16","col11":"GBP"}
+{"col1":"15586718/New-York","col2":"New-York","col3":"15586718","col4":"25-07-16","col5":"200","col6":"200","col7":"11400","col8":"Drecom","col9":"PO-200164","col10":"18-03-16","col11":"GBP"}
+{"col1":"15586718/New-York","col2":"New-York","col3":"15586718","col4":"1/1/2001","col5":"200","col6":"0","col7":"11400","col8":"Drecom","col9":"PO-200284","col10":"20-09-16","col11":"GBP"}
+{"col1":"15586718/New-York","col2":"New-York","col3":"15586718","col4":"1/1/2001","col5":"100","col6":"0","col7":"5700","col8":"Drecom","col9":"PO-200301","col10":"26-10-16","col11":"GBP"}
+{"col1":"10095232/New-York","col2":"New-York","col3":"10095232","col4":"5/8/2015","col5":"150","col6":"150","col7":"4002.000045","col8":"Office First","col9":"102197","col10":"27-05-15","col11":"EUR"}
+{"col1":"10095232/New-York","col2":"New-York","col3":"10095232","col4":"15-01-16","col5":"200","col6":"200","col7":"5336.00006","col8":"Office First","col9":"PO-200048","col10":"5/11/2015","col11":"EUR"}
+{"col1":"10095232/New-York","col2":"New-York","col3":"10095232","col4":"9/2/2016","col5":"400","col6":"400","col7":"10672.00012","col8":"Office First","col9":"PO-200072","col10":"3/12/2015","col11":"EUR"}
+{"col1":"10095232/New-York","col2":"New-York","col3":"10095232","col4":"10/2/2016","col5":"400","col6":"400","col7":"10672.00012","col8":"Office First","col9":"PO-200080","col10":"10/12/2015","col11":"EUR"}
+{"col1":"10095232/New-York","col2":"New-York","col3":"10095232","col4":"18-02-16","col5":"300","col6":"300","col7":"8004.00009","col8":"Office First","col9":"PO-200083","col10":"15-12-15","col11":"EUR"}
+{"col1":"10095232/New-York","col2":"New-York","col3":"10095232","col4":"20-05-16","col5":"200","col6":"200","col7":"5336.00006","col8":"Office First","col9":"PO-200096","col10":"4/1/2016","col11":"EUR"}
+{"col1":"11481389/New-York","col2":"New-York","col3":"11481389","col4":"18-11-15","col5":"60","col6":"60","col7":"794.399988","col8":"SuperSupply","col9":"PO-200025","col10":"24-09-15","col11":"GBP"}
+{"col1":"11481389/New-York","col2":"New-York","col3":"11481389","col4":"22-12-15","col5":"59","col6":"59","col7":"781.1599882","col8":"SuperSupply","col9":"PO-200082","col10":"14-12-15","col11":"GBP"}
+{"col1":"11481389/New-York","col2":"New-York","col3":"11481389","col4":"5/4/2016","col5":"30","col6":"30","col7":"397.199994","col8":"SuperSupply","col9":"PO-200112","col10":"20-01-16","col11":"GBP"}
+{"col1":"10422793/New-York","col2":"New-York","col3":"10422793","col4":"18-11-15","col5":"60","col6":"60","col7":"794.399988","col8":"RRD","col9":"PO-200025","col10":"24-09-15","col11":"USD"}
+{"col1":"10422793/New-York","col2":"New-York","col3":"10422793","col4":"22-12-15","col5":"59","col6":"59","col7":"781.1599882","col8":"RRD","col9":"PO-200082","col10":"14-12-15","col11":"USD"}
+{"col1":"10422793/New-York","col2":"New-York","col3":"10422793","col4":"22-12-15","col5":"30","col6":"30","col7":"397.199994","col8":"RRD","col9":"PO-200089","col10":"18-12-15","col11":"USD"}
+{"col1":"10422793/New-York","col2":"New-York","col3":"10422793","col4":"5/4/2016","col5":"30","col6":"30","col7":"397.199994","col8":"RRD","col9":"PO-200112","col10":"20-01-16","col11":"USD"}
+{"col1":"15431986/New-York","col2":"New-York","col3":"15431986","col4":"29-10-15","col5":"42","col6":"42","col7":"509.4600042","col8":"Logipro","col9":"PO-200022","col10":"11/9/2015","col11":"GBP"}
+{"col1":"15431986/New-York","col2":"New-York","col3":"15431986","col4":"31-12-15","col5":"30","col6":"30","col7":"363.900003","col8":"Logipro","col9":"PO-200034","col10":"22-10-15","col11":"GBP"}
+{"col1":"15431986/New-York","col2":"New-York","col3":"15431986","col4":"12/4/2016","col5":"12","col6":"12","col7":"145.5600012","col8":"Logipro","col9":"PO-200113","col10":"20-01-16","col11":"GBP"}
+{"col1":"15431986/New-York","col2":"New-York","col3":"15431986","col4":"26-05-16","col5":"24","col6":"24","col7":"291.1200024","col8":"Logipro","col9":"PO-200174","col10":"29-03-16","col11":"GBP"}
+{"col1":"15431986/New-York","col2":"New-York","col3":"15431986","col4":"11/8/2016","col5":"42","col6":"42","col7":"509.4600042","col8":"Logipro","col9":"PO-200230","col10":"21-06-16","col11":"GBP"}
+{"col1":"15431986/New-York","col2":"New-York","col3":"15431986","col4":"1/1/2001","col5":"30","col6":"0","col7":"363.900003","col8":"Logipro","col9":"PO-200293","col10":"4/10/2016","col11":"GBP"}
+{"col1":"15431986/New-York","col2":"New-York","col3":"15431986","col4":"1/1/2001","col5":"42","col6":"0","col7":"509.4600042","col8":"Logipro","col9":"PO-200302","col10":"26-10-16","col11":"GBP"}
+{"col1":"12768029/New-York","col2":"New-York","col3":"12768029","col4":"30-10-15","col5":"4","col6":"4","col7":"72.8000032","col8":"FHL","col9":"PO-200019","col10":"9/9/2015","col11":"USD"}
+{"col1":"12768029/New-York","col2":"New-York","col3":"12768029","col4":"29-10-15","col5":"20","col6":"20","col7":"364.000016","col8":"FHL","col9":"PO-200022","col10":"11/9/2015","col11":"USD"}
+{"col1":"12768029/New-York","col2":"New-York","col3":"12768029","col4":"31-12-15","col5":"24","col6":"24","col7":"436.8000192","col8":"FHL","col9":"PO-200034","col10":"22-10-15","col11":"USD"}
+{"col1":"12768029/New-York","col2":"New-York","col3":"12768029","col4":"12/4/2016","col5":"32","col6":"32","col7":"582.4000256","col8":"FHL","col9":"PO-200104","col10":"12/1/2016","col11":"USD"}
+{"col1":"12768029/New-York","col2":"New-York","col3":"12768029","col4":"5/8/2016","col5":"1","col6":"1","col7":"18.2000008","col8":"FHL","col9":"PO-200246","col10":"28-07-16","col11":"USD"}
+{"col1":"12768029/New-York","col2":"New-York","col3":"12768029","col4":"1/1/2001","col5":"24","col6":"0","col7":"436.8000192","col8":"FHL","col9":"PO-200293","col10":"4/10/2016","col11":"USD"}
+{"col1":"14523293/New-York","col2":"New-York","col3":"14523293","col4":"26-10-15","col5":"24","col6":"24","col7":"461.7599952","col8":"Drecom","col9":"PO-200017","col10":"31-08-15","col11":"USD"}
+{"col1":"14523293/New-York","col2":"New-York","col3":"14523293","col4":"5/4/2016","col5":"24","col6":"24","col7":"461.7599952","col8":"Drecom","col9":"PO-200112","col10":"20-01-16","col11":"USD"}
+{"col1":"14523293/New-York","col2":"New-York","col3":"14523293","col4":"25-04-16","col5":"12","col6":"12","col7":"230.8799976","col8":"Drecom","col9":"PO-200138","col10":"15-02-16","col11":"USD"}
+{"col1":"14523293/New-York","col2":"New-York","col3":"14523293","col4":"26-07-16","col5":"40","col6":"40","col7":"769.599992","col8":"Drecom","col9":"PO-200204","col10":"12/5/2016","col11":"USD"}
+{"col1":"15343952/New-York","col2":"New-York","col3":"15343952","col4":"27-01-16","col5":"150","col6":"150","col7":"3429.00009","col8":"Logipro","col9":"PO-200032","col10":"20-10-15","col11":"GBP"}
+{"col1":"15343952/New-York","col2":"New-York","col3":"15343952","col4":"19-05-16","col5":"150","col6":"150","col7":"3429.00009","col8":"Logipro","col9":"PO-200140","col10":"16-02-16","col11":"GBP"}
+{"col1":"15343952/New-York","col2":"New-York","col3":"15343952","col4":"1/1/2001","col5":"160","col6":"0","col7":"3657.600096","col8":"Logipro","col9":"PO-200253","col10":"4/8/2016","col11":"GBP"}
+{"col1":"11788268/New-York","col2":"New-York","col3":"11788268","col4":"9/10/2015","col5":"12","col6":"12","col7":"763.800018","col8":"SuperSupply","col9":"PO-200015","col10":"25-08-15","col11":"USD"}
+{"col1":"11788268/New-York","col2":"New-York","col3":"11788268","col4":"17-06-16","col5":"10","col6":"10","col7":"636.500015","col8":"SuperSupply","col9":"PO-200191","col10":"19-04-16","col11":"USD"}
+{"col1":"11788268/New-York","col2":"New-York","col3":"11788268","col4":"1/1/2001","col5":"20","col6":"0","col7":"1273.00003","col8":"SuperSupply","col9":"PO-200278","col10":"8/9/2016","col11":"USD"}
+{"col1":"10210677/New-York","col2":"New-York","col3":"10210677","col4":"9/10/2015","col5":"10","col6":"10","col7":"636.500015","col8":"Drecom","col9":"PO-200015","col10":"25-08-15","col11":"USD"}
+{"col1":"10210677/New-York","col2":"New-York","col3":"10210677","col4":"17-06-16","col5":"10","col6":"10","col7":"636.500015","col8":"Drecom","col9":"PO-200191","col10":"19-04-16","col11":"USD"}
+{"col1":"10210677/New-York","col2":"New-York","col3":"10210677","col4":"1/1/2001","col5":"20","col6":"0","col7":"1273.00003","col8":"Drecom","col9":"PO-200278","col10":"8/9/2016","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"5/10/2015","col5":"12","col6":"12","col7":"422.5199892","col8":"Drecom","col9":"PO-200006","col10":"3/8/2015","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"29-10-15","col5":"20","col6":"20","col7":"704.199982","col8":"Drecom","col9":"PO-200022","col10":"11/9/2015","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"31-12-15","col5":"24","col6":"24","col7":"845.0399784","col8":"Drecom","col9":"PO-200034","col10":"22-10-15","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"15-01-16","col5":"20","col6":"20","col7":"704.199982","col8":"Drecom","col9":"PO-200048","col10":"5/11/2015","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"21-06-16","col5":"32","col6":"32","col7":"1126.719971","col8":"Drecom","col9":"PO-200196","col10":"25-04-16","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"11/8/2016","col5":"48","col6":"48","col7":"1690.079957","col8":"Drecom","col9":"PO-200229","col10":"17-06-16","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"28-10-16","col5":"12","col6":"0","col7":"422.5199892","col8":"Drecom","col9":"PO-200248","col10":"29-07-16","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"1/1/2001","col5":"12","col6":"0","col7":"422.5199892","col8":"Drecom","col9":"PO-200293","col10":"4/10/2016","col11":"USD"}
+{"col1":"14693335/New-York","col2":"New-York","col3":"14693335","col4":"1/1/2001","col5":"60","col6":"0","col7":"2112.599946","col8":"Drecom","col9":"PO-200296","col10":"17-10-16","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"5/10/2015","col5":"24","col6":"24","col7":"597.8399952","col8":"RRD","col9":"PO-200010","col10":"5/8/2015","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"9/10/2015","col5":"24","col6":"24","col7":"597.8399952","col8":"RRD","col9":"PO-200015","col10":"25-08-15","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"26-10-15","col5":"40","col6":"40","col7":"996.399992","col8":"RRD","col9":"PO-200018","col10":"1/9/2015","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"30-10-15","col5":"10","col6":"10","col7":"249.099998","col8":"RRD","col9":"PO-200019","col10":"9/9/2015","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"11/11/2015","col5":"24","col6":"24","col7":"597.8399952","col8":"RRD","col9":"PO-200024","col10":"22-09-15","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"18-11-15","col5":"12","col6":"12","col7":"298.9199976","col8":"RRD","col9":"PO-200025","col10":"24-09-15","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"31-12-15","col5":"50","col6":"50","col7":"1245.49999","col8":"RRD","col9":"PO-200034","col10":"22-10-15","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"1/1/2001","col5":"50","col6":"0","col7":"1245.49999","col8":"RRD","col9":"PO-EE-BO-Scranton","col10":"30-10-15","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"15-01-16","col5":"30","col6":"30","col7":"747.299994","col8":"RRD","col9":"PO-200048","col10":"5/11/2015","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"21-06-16","col5":"16","col6":"16","col7":"398.5599968","col8":"RRD","col9":"PO-200196","col10":"25-04-16","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"23-06-16","col5":"72","col6":"72","col7":"1793.519986","col8":"RRD","col9":"PO-200198","col10":"26-04-16","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"29-08-16","col5":"24","col6":"24","col7":"597.8399952","col8":"RRD","col9":"PO-200232","col10":"30-06-16","col11":"USD"}
+{"col1":"11711636/New-York","col2":"New-York","col3":"11711636","col4":"7/10/2016","col5":"80","col6":"0","col7":"1992.799984","col8":"RRD","col9":"PO-200261","col10":"11/8/2016","col11":"USD"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"5/10/2015","col5":"24","col6":"24","col7":"597.8399952","col8":"Drecom","col9":"PO-200010","col10":"5/8/2015","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"9/10/2015","col5":"24","col6":"24","col7":"597.8399952","col8":"Drecom","col9":"PO-200015","col10":"25-08-15","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"26-10-15","col5":"40","col6":"40","col7":"996.399992","col8":"Drecom","col9":"PO-200018","col10":"1/9/2015","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"30-10-15","col5":"30","col6":"30","col7":"747.299994","col8":"Drecom","col9":"PO-200019","col10":"9/9/2015","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"11/11/2015","col5":"24","col6":"24","col7":"597.8399952","col8":"Drecom","col9":"PO-200024","col10":"22-09-15","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"18-11-15","col5":"12","col6":"12","col7":"298.9199976","col8":"Drecom","col9":"PO-200025","col10":"24-09-15","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"31-12-15","col5":"50","col6":"50","col7":"1245.49999","col8":"Drecom","col9":"PO-200034","col10":"22-10-15","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"1/1/2001","col5":"50","col6":"0","col7":"1245.49999","col8":"Drecom","col9":"PO-EE-BO-Scranton","col10":"30-10-15","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"15-01-16","col5":"30","col6":"30","col7":"747.299994","col8":"Drecom","col9":"PO-200048","col10":"5/11/2015","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"21-06-16","col5":"16","col6":"16","col7":"398.5599968","col8":"Drecom","col9":"PO-200196","col10":"25-04-16","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"23-06-16","col5":"72","col6":"72","col7":"1793.519986","col8":"Drecom","col9":"PO-200198","col10":"26-04-16","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"29-08-16","col5":"24","col6":"24","col7":"597.8399952","col8":"Drecom","col9":"PO-200232","col10":"30-06-16","col11":"GBP"}
+{"col1":"11941800/New-York","col2":"New-York","col3":"11941800","col4":"7/10/2016","col5":"80","col6":"0","col7":"1992.799984","col8":"Drecom","col9":"PO-200261","col10":"11/8/2016","col11":"GBP"}
+{"col1":"11711100/New-York","col2":"New-York","col3":"11711100","col4":"31-12-15","col5":"36","col6":"36","col7":"502.9200108","col8":"Office First","col9":"PO-200034","col10":"22-10-15","col11":"USD"}
+{"col1":"11711100/New-York","col2":"New-York","col3":"11711100","col4":"12/4/2016","col5":"36","col6":"36","col7":"502.9200108","col8":"Office First","col9":"PO-200113","col10":"20-01-16","col11":"USD"}
+{"col1":"11711100/New-York","col2":"New-York","col3":"11711100","col4":"11/8/2016","col5":"60","col6":"60","col7":"838.200018","col8":"Office First","col9":"PO-200230","col10":"21-06-16","col11":"USD"}
+{"col1":"11711100/New-York","col2":"New-York","col3":"11711100","col4":"1/1/2001","col5":"24","col6":"0","col7":"335.2800072","col8":"Office First","col9":"PO-200278","col10":"8/9/2016","col11":"USD"}
+{"col1":"11711100/New-York","col2":"New-York","col3":"11711100","col4":"1/1/2001","col5":"24","col6":"0","col7":"335.2800072","col8":"Office First","col9":"PO-200280","col10":"14-09-16","col11":"USD"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"5/8/2015","col5":"18","col6":"18","col7":"681.1200036","col8":"SuperSupply","col9":"102197","col10":"27-05-15","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"5/10/2015","col5":"70","col6":"70","col7":"2648.800014","col8":"SuperSupply","col9":"PO-200011","col10":"12/8/2015","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"18-11-15","col5":"30","col6":"30","col7":"1135.200006","col8":"SuperSupply","col9":"PO-200025","col10":"24-09-15","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"12/2/2016","col5":"22","col6":"22","col7":"832.4800044","col8":"SuperSupply","col9":"PO-200087","col10":"17-12-15","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"5/4/2016","col5":"26","col6":"26","col7":"983.8400052","col8":"SuperSupply","col9":"PO-200112","col10":"20-01-16","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"12/4/2016","col5":"14","col6":"14","col7":"529.7600028","col8":"SuperSupply","col9":"PO-200126","col10":"28-01-16","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"17-06-16","col5":"34","col6":"34","col7":"1286.560007","col8":"SuperSupply","col9":"PO-200191","col10":"19-04-16","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"23-06-16","col5":"60","col6":"60","col7":"2270.400012","col8":"SuperSupply","col9":"PO-200198","col10":"26-04-16","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"11/8/2016","col5":"60","col6":"60","col7":"2270.400012","col8":"SuperSupply","col9":"PO-200229","col10":"17-06-16","col11":"EUR"}
+{"col1":"10595489/New-York","col2":"New-York","col3":"10595489","col4":"1/1/2001","col5":"14","col6":"0","col7":"529.7600028","col8":"SuperSupply","col9":"PO-200280","col10":"14-09-16","col11":"EUR"}
+{"col1":"10678449/New-York","col2":"New-York","col3":"10678449","col4":"5/10/2015","col5":"10","col6":"10","col7":"330.600014","col8":"SuperSupply","col9":"PO-200013","col10":"18-08-15","col11":"USD"}
+{"col1":"10678449/New-York","col2":"New-York","col3":"10678449","col4":"18-11-15","col5":"20","col6":"20","col7":"661.200028","col8":"SuperSupply","col9":"PO-200025","col10":"24-09-15","col11":"USD"}
+{"col1":"10678449/New-York","col2":"New-York","col3":"10678449","col4":"1/1/2001","col5":"60","col6":"0","col7":"1983.600084","col8":"SuperSupply","col9":"PO-EE-BO-Scranton","col10":"30-10-15","col11":"USD"}
+{"col1":"10678449/New-York","col2":"New-York","col3":"10678449","col4":"12/4/2016","col5":"40","col6":"40","col7":"1322.400056","col8":"SuperSupply","col9":"PO-200113","col10":"20-01-16","col11":"USD"}
+{"col1":"10678449/New-York","col2":"New-York","col3":"10678449","col4":"1/1/2001","col5":"40","col6":"0","col7":"1322.400056","col8":"SuperSupply","col9":"PO-200297","col10":"19-10-16","col11":"USD"}
+{"col1":"10099950/New-York","col2":"New-York","col3":"10099950","col4":"18-11-15","col5":"20","col6":"20","col7":"661.200028","col8":"Logipro","col9":"PO-200025","col10":"24-09-15","col11":"USD"}
+{"col1":"10099950/New-York","col2":"New-York","col3":"10099950","col4":"1/1/2001","col5":"60","col6":"0","col7":"1983.600084","col8":"Logipro","col9":"PO-EE-BO-Scranton","col10":"30-10-15","col11":"USD"}
+{"col1":"10099950/New-York","col2":"New-York","col3":"10099950","col4":"12/4/2016","col5":"40","col6":"40","col7":"1322.400056","col8":"Logipro","col9":"PO-200113","col10":"20-01-16","col11":"USD"}
+{"col1":"10099950/New-York","col2":"New-York","col3":"10099950","col4":"1/1/2001","col5":"40","col6":"0","col7":"1322.400056","col8":"Logipro","col9":"PO-200297","col10":"19-10-16","col11":"USD"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"5/10/2015","col5":"16","col6":"16","col7":"623.8400272","col8":"Office First","col9":"PO-200011","col10":"12/8/2015","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"29-10-15","col5":"6","col6":"6","col7":"233.9400102","col8":"Office First","col9":"PO-200023","col10":"15-09-15","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"20-01-16","col5":"20","col6":"20","col7":"779.800034","col8":"Office First","col9":"PO-200051","col10":"12/11/2015","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"18-01-16","col5":"20","col6":"20","col7":"779.800034","col8":"Office First","col9":"PO-200059","col10":"18-11-15","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"9/2/2016","col5":"12","col6":"12","col7":"467.8800204","col8":"Office First","col9":"PO-200072","col10":"3/12/2015","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"9/6/2016","col5":"2","col6":"2","col7":"77.9800034","col8":"Office First","col9":"PO-200190","col10":"13-04-16","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"26-07-16","col5":"38","col6":"38","col7":"1481.620065","col8":"Office First","col9":"PO-200204","col10":"12/5/2016","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"1/1/2001","col5":"12","col6":"0","col7":"467.8800204","col8":"Office First","col9":"PO-200278","col10":"8/9/2016","col11":"GBP"}
+{"col1":"16401974/New-York","col2":"New-York","col3":"16401974","col4":"1/1/2001","col5":"18","col6":"0","col7":"701.8200306","col8":"Office First","col9":"PO-200302","col10":"26-10-16","col11":"GBP"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"5/8/2015","col5":"20","col6":"20","col7":"570.200004","col8":"Office First","col9":"102197","col10":"27-05-15","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"5/10/2015","col5":"40","col6":"40","col7":"1140.400008","col8":"Office First","col9":"PO-200009","col10":"3/8/2015","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"30-10-15","col5":"40","col6":"40","col7":"1140.400008","col8":"Office First","col9":"PO-200019","col10":"9/9/2015","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"11/11/2015","col5":"40","col6":"40","col7":"1140.400008","col8":"Office First","col9":"PO-200024","col10":"22-09-15","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"6/1/2016","col5":"20","col6":"20","col7":"570.200004","col8":"Office First","col9":"PO-200038","col10":"29-10-15","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"1/1/2001","col5":"32","col6":"0","col7":"912.3200064","col8":"Office First","col9":"PO-EE-BO-Scranton","col10":"30-10-15","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"18-02-16","col5":"20","col6":"20","col7":"570.200004","col8":"Office First","col9":"PO-200083","col10":"15-12-15","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"17-06-16","col5":"50","col6":"50","col7":"1425.50001","col8":"Office First","col9":"PO-200191","col10":"19-04-16","col11":"USD"}
+{"col1":"11914966/New-York","col2":"New-York","col3":"11914966","col4":"23-06-16","col5":"30","col6":"30","col7":"855.300006","col8":"Office First","col9":"PO-200198","col10":"26-04-16","col11":"USD"}
+{"col1":"14895172/New-York","col2":"New-York","col3":"14895172","col4":"29-10-15","col5":"12","col6":"12","col7":"349.2000048","col8":"Logipro","col9":"PO-200023","col10":"15-09-15","col11":"GBP"}
+{"col1":"14895172/New-York","col2":"New-York","col3":"14895172","col4":"31-12-15","col5":"28","col6":"28","col7":"814.8000112","col8":"Logipro","col9":"PO-200034","col10":"22-10-15","col11":"GBP"}
+{"col1":"14895172/New-York","col2":"New-York","col3":"14895172","col4":"26-05-16","col5":"20","col6":"20","col7":"582.000008","col8":"Logipro","col9":"PO-200174","col10":"29-03-16","col11":"GBP"}
+{"col1":"15416092/New-York","col2":"New-York","col3":"15416092","col4":"5/10/2015","col5":"28","col6":"28","col7":"620.1999888","col8":"RRD","col9":"PO-200006","col10":"3/8/2015","col11":"EUR"}
+{"col1":"15416092/New-York","col2":"New-York","col3":"15416092","col4":"5/10/2015","col5":"24","col6":"24","col7":"531.5999904","col8":"RRD","col9":"PO-200010","col10":"5/8/2015","col11":"EUR"}
+{"col1":"15416092/New-York","col2":"New-York","col3":"15416092","col4":"20-01-16","col5":"40","col6":"40","col7":"885.999984","col8":"RRD","col9":"PO-200051","col10":"12/11/2015","col11":"EUR"}
+{"col1":"15416092/New-York","col2":"New-York","col3":"15416092","col4":"20-05-16","col5":"20","col6":"20","col7":"442.999992","col8":"RRD","col9":"PO-200096","col10":"4/1/2016","col11":"EUR"}
+{"col1":"15416092/New-York","col2":"New-York","col3":"15416092","col4":"26-07-16","col5":"60","col6":"60","col7":"1328.999976","col8":"RRD","col9":"PO-200212","col10":"25-05-16","col11":"EUR"}
+{"col1":"15416092/New-York","col2":"New-York","col3":"15416092","col4":"1/1/2001","col5":"60","col6":"0","col7":"1328.999976","col8":"RRD","col9":"PO-200253","col10":"4/8/2016","col11":"EUR"}
+{"col1":"15416092/New-York","col2":"New-York","col3":"15416092","col4":"1/1/2001","col5":"80","col6":"0","col7":"1771.999968","col8":"RRD","col9":"PO-200302","col10":"26-10-16","col11":"EUR"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"9/10/2015","col5":"20","col6":"20","col7":"941.200028","col8":"Office First","col9":"PO-200015","col10":"25-08-15","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"7/12/2015","col5":"60","col6":"60","col7":"2823.600084","col8":"Office First","col9":"PO-200030","col10":"12/10/2015","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"6/1/2016","col5":"20","col6":"20","col7":"941.200028","col8":"Office First","col9":"PO-200038","col10":"29-10-15","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"9/6/2016","col5":"60","col6":"60","col7":"2823.600084","col8":"Office First","col9":"PO-200190","col10":"13-04-16","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"17-06-16","col5":"20","col6":"20","col7":"941.200028","col8":"Office First","col9":"PO-200191","col10":"19-04-16","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"5/8/2016","col5":"2","col6":"2","col7":"94.1200028","col8":"Office First","col9":"PO-200246","col10":"28-07-16","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"1/1/2001","col5":"60","col6":"0","col7":"2823.600084","col8":"Office First","col9":"PO-200273","col10":"25-08-16","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"27-10-16","col5":"60","col6":"0","col7":"2823.600084","col8":"Office First","col9":"PO-200275","col10":"31-08-16","col11":"GBP"}
+{"col1":"12409642/New-York","col2":"New-York","col3":"12409642","col4":"1/1/2001","col5":"12","col6":"0","col7":"564.7200168","col8":"Office First","col9":"PO-200302","col10":"26-10-16","col11":"GBP"}
+{"col1":"11906239/New-York","col2":"New-York","col3":"11906239","col4":"5/8/2015","col5":"35","col6":"35","col7":"1096.549997","col8":"Drecom","col9":"102197","col10":"27-05-15","col11":"GBP"}
+{"col1":"11906239/New-York","col2":"New-York","col3":"11906239","col4":"5/10/2015","col5":"100","col6":"100","col7":"3132.99999","col8":"Drecom","col9":"PO-200012","col10":"14-08-15","col11":"GBP"}
+{"col1":"11906239/New-York","col2":"New-York","col3":"11906239","col4":"9/2/2016","col5":"100","col6":"100","col7":"3132.99999","col8":"Drecom","col9":"PO-200072","col10":"3/12/2015","col11":"GBP"}
+{"col1":"11906239/New-York","col2":"New-York","col3":"11906239","col4":"5/4/2016","col5":"100","col6":"100","col7":"3132.99999","col8":"Drecom","col9":"PO-200112","col10":"20-01-16","col11":"GBP"}
+{"col1":"11906239/New-York","col2":"New-York","col3":"11906239","col4":"26-05-16","col5":"100","col6":"100","col7":"3132.99999","col8":"Drecom","col9":"PO-200174","col10":"29-03-16","col11":"GBP"}
+{"col1":"11906239/New-York","col2":"New-York","col3":"11906239","col4":"1/1/2001","col5":"70","col6":"0","col7":"2193.099993","col8":"Drecom","col9":"PO-200289","col10":"28-09-16","col11":"GBP"}
+{"col1":"11929369/New-York","col2":"New-York","col3":"11929369","col4":"12/4/2016","col5":"60","col6":"60","col7":"531.0000228","col8":"Logipro","col9":"PO-200113","col10":"20-01-16","col11":"GBP"}
+{"col1":"11635178/New-York","col2":"New-York","col3":"11635178","col4":"26-05-16","col5":"36","col6":"36","col7":"336.6000137","col8":"Drecom","col9":"PO-200174","col10":"29-03-16","col11":"EUR"}
+{"col1":"13934616/New-York","col2":"New-York","col3":"13934616","col4":"7/6/2016","col5":"36","col6":"36","col7":"336.6000137","col8":"Drecom","col9":"PO-200181","col10":"6/4/2016","col11":"GBP"}
+{"col1":"14113811/New-York","col2":"New-York","col3":"14113811","col4":"26-10-15","col5":"18","col6":"18","col7":"426.9599874","col8":"Drecom","col9":"PO-200018","col10":"1/9/2015","col11":"GBP"}
+{"col1":"14113811/New-York","col2":"New-York","col3":"14113811","col4":"18-02-16","col5":"12","col6":"12","col7":"284.6399916","col8":"Drecom","col9":"PO-200083","col10":"15-12-15","col11":"GBP"}
+{"col1":"14113811/New-York","col2":"New-York","col3":"14113811","col4":"12/4/2016","col5":"24","col6":"24","col7":"569.2799832","col8":"Drecom","col9":"PO-200113","col10":"20-01-16","col11":"GBP"}
+{"col1":"14113811/New-York","col2":"New-York","col3":"14113811","col4":"19-10-16","col5":"36","col6":"0","col7":"853.9199748","col8":"Drecom","col9":"PO-200273","col10":"25-08-16","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"5/10/2015","col5":"24","col6":"24","col7":"519.3599856","col8":"Drecom","col9":"PO-200013","col10":"18-08-15","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"29-10-15","col5":"60","col6":"60","col7":"1298.399964","col8":"Drecom","col9":"PO-200022","col10":"11/9/2015","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"18-11-15","col5":"36","col6":"36","col7":"779.0399784","col8":"Drecom","col9":"PO-200025","col10":"24-09-15","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"7/12/2015","col5":"4","col6":"4","col7":"86.5599976","col8":"Drecom","col9":"PO-200030","col10":"12/10/2015","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"25-04-16","col5":"48","col6":"48","col7":"1038.719971","col8":"Drecom","col9":"PO-200130","col10":"8/2/2016","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"11/8/2016","col5":"40","col6":"40","col7":"865.599976","col8":"Drecom","col9":"PO-200230","col10":"21-06-16","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"29-08-16","col5":"40","col6":"40","col7":"865.599976","col8":"Drecom","col9":"PO-200232","col10":"30-06-16","col11":"GBP"}
+{"col1":"14262733/New-York","col2":"New-York","col3":"14262733","col4":"1/1/2001","col5":"12","col6":"0","col7":"259.6799928","col8":"Drecom","col9":"PO-200293","col10":"4/10/2016","col11":"GBP"}
+{"col1":"14245992/New-York","col2":"New-York","col3":"14245992","col4":"26-10-15","col5":"12","col6":"12","col7":"145.5600012","col8":"Drecom","col9":"PO-200017","col10":"31-08-15","col11":"USD"}
+{"col1":"14245992/New-York","col2":"New-York","col3":"14245992","col4":"29-10-15","col5":"18","col6":"18","col7":"218.3400018","col8":"Drecom","col9":"PO-200023","col10":"15-09-15","col11":"USD"}
+{"col1":"14245992/New-York","col2":"New-York","col3":"14245992","col4":"12/4/2016","col5":"24","col6":"24","col7":"291.1200024","col8":"Drecom","col9":"PO-200126","col10":"28-01-16","col11":"USD"}
+{"col1":"14245992/New-York","col2":"New-York","col3":"14245992","col4":"23-06-16","col5":"18","col6":"18","col7":"218.3400018","col8":"Drecom","col9":"PO-200198","col10":"26-04-16","col11":"USD"}
+{"col1":"14245992/New-York","col2":"New-York","col3":"14245992","col4":"1/8/2016","col5":"12","col6":"12","col7":"145.5600012","col8":"Drecom","col9":"PO-200215","col10":"2/6/2016","col11":"USD"}
+{"col1":"14245992/New-York","col2":"New-York","col3":"14245992","col4":"27-10-16","col5":"6","col6":"0","col7":"72.7800006","col8":"Drecom","col9":"PO-200275","col10":"31-08-16","col11":"USD"}
+{"col1":"14245992/New-York","col2":"New-York","col3":"14245992","col4":"1/1/2001","col5":"12","col6":"0","col7":"145.5600012","col8":"Drecom","col9":"PO-200287","col10":"22-09-16","col11":"USD"}
+{"col1":"12918171/New-York","col2":"New-York","col3":"12918171","col4":"12/4/2016","col5":"10","col6":"10","col7":"48.4000015","col8":"Drecom","col9":"PO-200104","col10":"12/1/2016","col11":"EUR"}
+{"col1":"12401265/New-York","col2":"New-York","col3":"12401265","col4":"12/4/2016","col5":"10","col6":"10","col7":"48.4000015","col8":"Drecom","col9":"PO-200113","col10":"20-01-16","col11":"GBP"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"5/8/2015","col5":"16","col6":"16","col7":"938.2399904","col8":"RRD","col9":"102197","col10":"27-05-15","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"5/10/2015","col5":"40","col6":"40","col7":"2345.599976","col8":"RRD","col9":"PO-200011","col10":"12/8/2015","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"9/10/2015","col5":"30","col6":"30","col7":"1759.199982","col8":"RRD","col9":"PO-200015","col10":"25-08-15","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"31-12-15","col5":"20","col6":"20","col7":"1172.799988","col8":"RRD","col9":"PO-200034","col10":"22-10-15","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"12/2/2016","col5":"80","col6":"80","col7":"4691.199952","col8":"RRD","col9":"PO-200087","col10":"17-12-15","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"29-04-16","col5":"90","col6":"90","col7":"5277.599946","col8":"RRD","col9":"PO-200143","col10":"18-02-16","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"11/8/2016","col5":"32","col6":"32","col7":"1876.479981","col8":"RRD","col9":"PO-200230","col10":"21-06-16","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"6/9/2016","col5":"40","col6":"40","col7":"2345.599976","col8":"RRD","col9":"PO-200234","col10":"12/7/2016","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"1/1/2001","col5":"30","col6":"0","col7":"1759.199982","col8":"RRD","col9":"PO-200278","col10":"8/9/2016","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"1/1/2001","col5":"60","col6":"0","col7":"3518.399964","col8":"RRD","col9":"PO-200287","col10":"22-09-16","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"1/1/2001","col5":"40","col6":"0","col7":"2345.599976","col8":"RRD","col9":"PO-200289","col10":"28-09-16","col11":"USD"}
+{"col1":"15410849/New-York","col2":"New-York","col3":"15410849","col4":"1/1/2001","col5":"40","col6":"0","col7":"2345.599976","col8":"RRD","col9":"PO-200297","col10":"19-10-16","col11":"USD"}
+{"col1":"16239251/New-York","col2":"New-York","col3":"16239251","col4":"5/10/2015","col5":"54","col6":"54","col7":"1237.139989","col8":"Drecom","col9":"PO-200013","col10":"18-08-15","col11":"GBP"}
+{"col1":"16239251/New-York","col2":"New-York","col3":"16239251","col4":"12/2/2016","col5":"10","col6":"10","col7":"229.099998","col8":"Drecom","col9":"PO-200087","col10":"17-12-15","col11":"GBP"}
+{"col1":"16239251/New-York","col2":"New-York","col3":"16239251","col4":"15-02-16","col5":"30","col6":"30","col7":"687.299994","col8":"Drecom","col9":"PO-200090","col10":"21-12-15","col11":"GBP"}
+{"col1":"16239251/New-York","col2":"New-York","col3":"16239251","col4":"6/9/2016","col5":"60","col6":"60","col7":"1374.599988","col8":"Drecom","col9":"PO-200234","col10":"12/7/2016","col11":"GBP"}
+{"col1":"16239251/New-York","col2":"New-York","col3":"16239251","col4":"1/1/2001","col5":"40","col6":"0","col7":"916.399992","col8":"Drecom","col9":"PO-200302","col10":"26-10-16","col11":"GBP"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"5/8/2015","col5":"36","col6":"36","col7":"666","col8":"Logipro","col9":"102197","col10":"27-05-15","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"5/10/2015","col5":"50","col6":"50","col7":"925","col8":"Logipro","col9":"PO-200006","col10":"3/8/2015","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"30-10-15","col5":"60","col6":"60","col7":"1110","col8":"Logipro","col9":"PO-200019","col10":"9/9/2015","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"29-10-15","col5":"60","col6":"60","col7":"1110","col8":"Logipro","col9":"PO-200023","col10":"15-09-15","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"31-12-15","col5":"80","col6":"80","col7":"1480","col8":"Logipro","col9":"PO-200034","col10":"22-10-15","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"20-01-16","col5":"40","col6":"40","col7":"740","col8":"Logipro","col9":"PO-200051","col10":"12/11/2015","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"18-01-16","col5":"40","col6":"40","col7":"740","col8":"Logipro","col9":"PO-200059","col10":"18-11-15","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"18-02-16","col5":"80","col6":"80","col7":"1480","col8":"Logipro","col9":"PO-200083","col10":"15-12-15","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"5/4/2016","col5":"160","col6":"160","col7":"2960","col8":"Logipro","col9":"PO-200112","col10":"20-01-16","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"17-06-16","col5":"40","col6":"40","col7":"740","col8":"Logipro","col9":"PO-200191","col10":"19-04-16","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"21-06-16","col5":"60","col6":"60","col7":"1110","col8":"Logipro","col9":"PO-200196","col10":"25-04-16","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"11/8/2016","col5":"80","col6":"80","col7":"1480","col8":"Logipro","col9":"PO-200229","col10":"17-06-16","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"19-10-16","col5":"60","col6":"0","col7":"1110","col8":"Logipro","col9":"PO-200273","col10":"25-08-16","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"1/1/2001","col5":"24","col6":"0","col7":"444","col8":"Logipro","col9":"PO-200293","col10":"4/10/2016","col11":"EUR"}
+{"col1":"13498766/New-York","col2":"New-York","col3":"13498766","col4":"1/1/2001","col5":"100","col6":"0","col7":"1850","col8":"Logipro","col9":"PO-200296","col10":"17-10-16","col11":"EUR"}
+{"col1":"10592438/New-York","col2":"New-York","col3":"10592438","col4":"5/10/2015","col5":"40","col6":"40","col7":"137.6000024","col8":"Logipro","col9":"PO-200006","col10":"3/8/2015","col11":"EUR"}
+{"col1":"10592438/New-York","col2":"New-York","col3":"10592438","col4":"12/2/2016","col5":"20","col6":"20","col7":"68.8000012","col8":"Logipro","col9":"PO-200087","col10":"17-12-15","col11":"EUR"}
+{"col1":"10592438/New-York","col2":"New-York","col3":"10592438","col4":"11/8/2016","col5":"20","col6":"20","col7":"68.8000012","col8":"Logipro","col9":"PO-200230","col10":"21-06-16","col11":"EUR"}
+{"col1":"10592438/New-York","col2":"New-York","col3":"10592438","col4":"1/1/2001","col5":"20","col6":"0","col7":"68.8000012","col8":"Logipro","col9":"PO-200293","col10":"4/10/2016","col11":"EUR"}
+{"col1":"16089695/New-York","col2":"New-York","col3":"16089695","col4":"5/10/2015","col5":"40","col6":"40","col7":"137.6000024","col8":"Logipro","col9":"PO-200006","col10":"3/8/2015","col11":"GBP"}
+{"col1":"16089695/New-York","col2":"New-York","col3":"16089695","col4":"12/2/2016","col5":"20","col6":"20","col7":"68.8000012","col8":"Logipro","col9":"PO-200087","col10":"17-12-15","col11":"GBP"}
+{"col1":"16089695/New-York","col2":"New-York","col3":"16089695","col4":"11/8/2016","col5":"20","col6":"20","col7":"68.8000012","col8":"Logipro","col9":"PO-200230","col10":"21-06-16","col11":"GBP"}
+{"col1":"16089695/New-York","col2":"New-York","col3":"16089695","col4":"1/1/2001","col5":"20","col6":"0","col7":"68.8000012","col8":"Logipro","col9":"PO-200293","col10":"4/10/2016","col11":"GBP"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"5/10/2015","col5":"28","col6":"28","col7":"754.6000224","col8":"RRD","col9":"PO-200010","col10":"5/8/2015","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"5/10/2015","col5":"28","col6":"28","col7":"754.6000224","col8":"RRD","col9":"PO-200011","col10":"12/8/2015","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"9/10/2015","col5":"40","col6":"40","col7":"1078.000032","col8":"RRD","col9":"PO-200015","col10":"25-08-15","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"11/11/2015","col5":"24","col6":"24","col7":"646.8000192","col8":"RRD","col9":"PO-200024","col10":"22-09-15","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"15-01-16","col5":"20","col6":"20","col7":"539.000016","col8":"RRD","col9":"PO-200048","col10":"5/11/2015","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"12/2/2016","col5":"56","col6":"56","col7":"1509.200045","col8":"RRD","col9":"PO-200087","col10":"17-12-15","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"5/4/2016","col5":"24","col6":"24","col7":"646.8000192","col8":"RRD","col9":"PO-200112","col10":"20-01-16","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"25-04-16","col5":"24","col6":"24","col7":"646.8000192","col8":"RRD","col9":"PO-200130","col10":"8/2/2016","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"7/6/2016","col5":"20","col6":"20","col7":"539.000016","col8":"RRD","col9":"PO-200181","col10":"6/4/2016","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"11/8/2016","col5":"20","col6":"20","col7":"539.000016","col8":"RRD","col9":"PO-200230","col10":"21-06-16","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"27-10-16","col5":"20","col6":"0","col7":"539.000016","col8":"RRD","col9":"PO-200275","col10":"31-08-16","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"1/1/2001","col5":"20","col6":"0","col7":"539.000016","col8":"RRD","col9":"PO-200278","col10":"8/9/2016","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"1/1/2001","col5":"48","col6":"0","col7":"1293.600038","col8":"RRD","col9":"PO-200287","col10":"22-09-16","col11":"EUR"}
+{"col1":"15880950/New-York","col2":"New-York","col3":"15880950","col4":"1/1/2001","col5":"28","col6":"0","col7":"754.6000224","col8":"RRD","col9":"PO-200289","col10":"28-09-16","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"5/10/2015","col5":"36","col6":"36","col7":"970.2000288","col8":"Drecom","col9":"PO-200010","col10":"5/8/2015","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"5/10/2015","col5":"28","col6":"28","col7":"754.6000224","col8":"Drecom","col9":"PO-200011","col10":"12/8/2015","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"9/10/2015","col5":"40","col6":"40","col7":"1078.000032","col8":"Drecom","col9":"PO-200015","col10":"25-08-15","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"11/11/2015","col5":"24","col6":"24","col7":"646.8000192","col8":"Drecom","col9":"PO-200024","col10":"22-09-15","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"15-01-16","col5":"20","col6":"20","col7":"539.000016","col8":"Drecom","col9":"PO-200048","col10":"5/11/2015","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"12/2/2016","col5":"60","col6":"60","col7":"1617.000048","col8":"Drecom","col9":"PO-200087","col10":"17-12-15","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"20-05-16","col5":"20","col6":"20","col7":"539.000016","col8":"Drecom","col9":"PO-200096","col10":"4/1/2016","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"25-04-16","col5":"24","col6":"24","col7":"646.8000192","col8":"Drecom","col9":"PO-200130","col10":"8/2/2016","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"7/6/2016","col5":"36","col6":"36","col7":"970.2000288","col8":"Drecom","col9":"PO-200181","col10":"6/4/2016","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"11/8/2016","col5":"20","col6":"20","col7":"539.000016","col8":"Drecom","col9":"PO-200230","col10":"21-06-16","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"27-10-16","col5":"24","col6":"0","col7":"646.8000192","col8":"Drecom","col9":"PO-200275","col10":"31-08-16","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"1/1/2001","col5":"20","col6":"0","col7":"539.000016","col8":"Drecom","col9":"PO-200278","col10":"8/9/2016","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"1/1/2001","col5":"48","col6":"0","col7":"1293.600038","col8":"Drecom","col9":"PO-200287","col10":"22-09-16","col11":"EUR"}
+{"col1":"14548487/New-York","col2":"New-York","col3":"14548487","col4":"1/1/2001","col5":"28","col6":"0","col7":"754.6000224","col8":"Drecom","col9":"PO-200289","col10":"28-09-16","col11":"EUR"}
+{"col1":"12753764/New-York","col2":"New-York","col3":"12753764","col4":"30-10-15","col5":"60","col6":"60","col7":"688.79997","col8":"FHL","col9":"PO-200019","col10":"9/9/2015","col11":"USD"}
+{"col1":"12753764/New-York","col2":"New-York","col3":"12753764","col4":"20-01-16","col5":"60","col6":"60","col7":"688.79997","col8":"FHL","col9":"PO-200051","col10":"12/11/2015","col11":"USD"}
+{"col1":"12753764/New-York","col2":"New-York","col3":"12753764","col4":"18-02-16","col5":"102","col6":"102","col7":"1170.959949","col8":"FHL","col9":"PO-200083","col10":"15-12-15","col11":"USD"}
+{"col1":"12753764/New-York","col2":"New-York","col3":"12753764","col4":"25-04-16","col5":"192","col6":"192","col7":"2204.159904","col8":"FHL","col9":"PO-200130","col10":"8/2/2016","col11":"USD"}
+{"col1":"12753764/New-York","col2":"New-York","col3":"12753764","col4":"25-08-16","col5":"120","col6":"120","col7":"1377.59994","col8":"FHL","col9":"PO-200146","col10":"24-02-16","col11":"USD"}
+{"col1":"12753764/New-York","col2":"New-York","col3":"12753764","col4":"17-06-16","col5":"60","col6":"60","col7":"688.79997","col8":"FHL","col9":"PO-200191","col10":"19-04-16","col11":"USD"}
+{"col1":"12787016/New-York","col2":"New-York","col3":"12787016","col4":"25-04-16","col5":"70","col6":"70","col7":"2783.900035","col8":"FHL","col9":"PO-200130","col10":"8/2/2016","col11":"GBP"}
+{"col1":"12787016/New-York","col2":"New-York","col3":"12787016","col4":"26-05-16","col5":"100","col6":"100","col7":"3977.00005","col8":"FHL","col9":"PO-200174","col10":"29-03-16","col11":"GBP"}
+{"col1":"12787016/New-York","col2":"New-York","col3":"12787016","col4":"1/1/2001","col5":"100","col6":"0","col7":"3977.00005","col8":"FHL","col9":"PO-200264","col10":"16-08-16","col11":"GBP"}
+{"col1":"13856231/New-York","col2":"New-York","col3":"13856231","col4":"5/10/2015","col5":"24","col6":"24","col7":"1061.760041","col8":"SuperSupply","col9":"PO-200011","col10":"12/8/2015","col11":"GBP"}
+{"col1":"13856231/New-York","col2":"New-York","col3":"13856231","col4":"12/4/2016","col5":"20","col6":"20","col7":"884.800034","col8":"SuperSupply","col9":"PO-200126","col10":"28-01-16","col11":"GBP"}
+{"col1":"13856231/New-York","col2":"New-York","col3":"13856231","col4":"25-04-16","col5":"12","col6":"12","col7":"530.8800204","col8":"SuperSupply","col9":"PO-200138","col10":"15-02-16","col11":"GBP"}
+{"col1":"13856231/New-York","col2":"New-York","col3":"13856231","col4":"26-05-16","col5":"16","col6":"16","col7":"707.8400272","col8":"SuperSupply","col9":"PO-200174","col10":"29-03-16","col11":"GBP"}
+{"col1":"13856231/New-York","col2":"New-York","col3":"13856231","col4":"26-07-16","col5":"32","col6":"32","col7":"1415.680054","col8":"SuperSupply","col9":"PO-200204","col10":"12/5/2016","col11":"GBP"}
+{"col1":"13856231/New-York","col2":"New-York","col3":"13856231","col4":"26-07-16","col5":"40","col6":"40","col7":"1769.600068","col8":"SuperSupply","col9":"PO-200212","col10":"25-05-16","col11":"GBP"}
+{"col1":"13856231/New-York","col2":"New-York","col3":"13856231","col4":"19-10-16","col5":"48","col6":"0","col7":"2123.520082","col8":"SuperSupply","col9":"PO-200273","col10":"25-08-16","col11":"GBP"}
+{"col1":"12569093/New-York","col2":"New-York","col3":"12569093","col4":"26-10-15","col5":"14","col6":"14","col7":"313.3199888","col8":"Office First","col9":"PO-200017","col10":"31-08-15","col11":"GBP"}
+{"col1":"12569093/New-York","col2":"New-York","col3":"12569093","col4":"20-01-16","col5":"48","col6":"48","col7":"1074.239962","col8":"Office First","col9":"PO-200051","col10":"12/11/2015","col11":"GBP"}
+{"col1":"12569093/New-York","col2":"New-York","col3":"12569093","col4":"31-05-16","col5":"40","col6":"40","col7":"895.199968","col8":"Office First","col9":"PO-200175","col10":"30-03-16","col11":"GBP"}
+{"col1":"12569093/New-York","col2":"New-York","col3":"12569093","col4":"1/1/2001","col5":"20","col6":"0","col7":"447.599984","col8":"Office First","col9":"PO-200296","col10":"17-10-16","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"5/8/2015","col5":"20","col6":"20","col7":"586.800004","col8":"FHL","col9":"102197","col10":"27-05-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"5/10/2015","col5":"80","col6":"80","col7":"2347.200016","col8":"FHL","col9":"PO-200009","col10":"3/8/2015","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"5/10/2015","col5":"20","col6":"20","col7":"586.800004","col8":"FHL","col9":"PO-200010","col10":"5/8/2015","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"5/10/2015","col5":"16","col6":"16","col7":"469.4400032","col8":"FHL","col9":"PO-200013","col10":"18-08-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"9/10/2015","col5":"100","col6":"100","col7":"2934.00002","col8":"FHL","col9":"PO-200015","col10":"25-08-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"9/10/2015","col5":"100","col6":"100","col7":"2934.00002","col8":"FHL","col9":"PO-200015","col10":"25-08-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"11/11/2015","col5":"90","col6":"90","col7":"2640.600018","col8":"FHL","col9":"PO-200024","col10":"22-09-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"18-11-15","col5":"60","col6":"60","col7":"1760.400012","col8":"FHL","col9":"PO-200025","col10":"24-09-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"31-12-15","col5":"60","col6":"60","col7":"1760.400012","col8":"FHL","col9":"PO-200034","col10":"22-10-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"15-01-16","col5":"90","col6":"90","col7":"2640.600018","col8":"FHL","col9":"PO-200048","col10":"5/11/2015","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"18-01-16","col5":"60","col6":"60","col7":"1760.400012","col8":"FHL","col9":"PO-200059","col10":"18-11-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"10/2/2016","col5":"60","col6":"60","col7":"1760.400012","col8":"FHL","col9":"PO-200080","col10":"10/12/2015","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"15-02-16","col5":"100","col6":"100","col7":"2934.00002","col8":"FHL","col9":"PO-200090","col10":"21-12-15","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"12/4/2016","col5":"100","col6":"100","col7":"2934.00002","col8":"FHL","col9":"PO-200113","col10":"20-01-16","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"25-04-16","col5":"100","col6":"100","col7":"2934.00002","col8":"FHL","col9":"PO-200130","col10":"8/2/2016","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"3/8/2016","col5":"50","col6":"50","col7":"1467.00001","col8":"FHL","col9":"PO-200154","col10":"9/3/2016","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"3/8/2016","col5":"30","col6":"30","col7":"880.200006","col8":"FHL","col9":"PO-200155","col10":"9/3/2016","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"22-03-16","col5":"40","col6":"40","col7":"1173.600008","col8":"FHL","col9":"PO-200157","col10":"9/3/2016","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"9/6/2016","col5":"160","col6":"160","col7":"4694.400032","col8":"FHL","col9":"PO-200190","col10":"13-04-16","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"11/8/2016","col5":"40","col6":"40","col7":"1173.600008","col8":"FHL","col9":"PO-200230","col10":"21-06-16","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"29-09-16","col5":"84","col6":"0","col7":"2464.560017","col8":"FHL","col9":"PO-200253","col10":"4/8/2016","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"1/1/2001","col5":"60","col6":"0","col7":"1760.400012","col8":"FHL","col9":"PO-200278","col10":"8/9/2016","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"1/1/2001","col5":"60","col6":"0","col7":"1760.400012","col8":"FHL","col9":"PO-200280","col10":"14-09-16","col11":"GBP"}
+{"col1":"12561507/New-York","col2":"New-York","col3":"12561507","col4":"1/1/2001","col5":"60","col6":"0","col7":"1760.400012","col8":"FHL","col9":"PO-200302","col10":"26-10-16","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"26-10-15","col5":"12","col6":"12","col7":"475.4399868","col8":"Logipro","col9":"PO-200017","col10":"31-08-15","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"29-10-15","col5":"20","col6":"20","col7":"792.399978","col8":"Logipro","col9":"PO-200022","col10":"11/9/2015","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"31-12-15","col5":"20","col6":"20","col7":"792.399978","col8":"Logipro","col9":"PO-200034","col10":"22-10-15","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"15-01-16","col5":"16","col6":"16","col7":"633.9199824","col8":"Logipro","col9":"PO-200048","col10":"5/11/2015","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"20-01-16","col5":"40","col6":"40","col7":"1584.799956","col8":"Logipro","col9":"PO-200051","col10":"12/11/2015","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"12/2/2016","col5":"16","col6":"16","col7":"633.9199824","col8":"Logipro","col9":"PO-200087","col10":"17-12-15","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"31-05-16","col5":"30","col6":"30","col7":"1188.599967","col8":"Logipro","col9":"PO-200175","col10":"30-03-16","col11":"GBP"}
+{"col1":"12572098/New-York","col2":"New-York","col3":"12572098","col4":"7/6/2016","col5":"40","col6":"40","col7":"1584.799956","col8":"Logipro","col9":"PO-200181","col10":"6/4/2016","col11":"GBP"}
+{"col1":"13532626/New-York","col2":"New-York","col3":"13532626","col4":"28-10-15","col5":"60","col6":"60","col7":"3579.00009","col8":"SuperSupply","col9":"PO-200031","col10":"13-10-15","col11":"GBP"}
+{"col1":"13532626/New-York","col2":"New-York","col3":"13532626","col4":"30-10-15","col5":"98","col6":"98","col7":"5845.700147","col8":"SuperSupply","col9":"PO-200028","col10":"13-10-15","col11":"GBP"}
+{"col1":"13532626/New-York","col2":"New-York","col3":"13532626","col4":"13-05-16","col5":"49","col6":"49","col7":"2922.850074","col8":"SuperSupply","col9":"PO-200150","col10":"1/3/2016","col11":"GBP"}
+{"col1":"13532626/New-York","col2":"New-York","col3":"13532626","col4":"25-07-16","col5":"200","col6":"200","col7":"11930.0003","col8":"SuperSupply","col9":"PO-200164","col10":"18-03-16","col11":"GBP"}
+{"col1":"14343336/New-York","col2":"New-York","col3":"14343336","col4":"28-10-15","col5":"168","col6":"168","col7":"8299.200252","col8":"Drecom","col9":"PO-200031","col10":"13-10-15","col11":"EUR"}
+{"col1":"14343336/New-York","col2":"New-York","col3":"14343336","col4":"30-10-15","col5":"24","col6":"24","col7":"1185.600036","col8":"Drecom","col9":"PO-200028","col10":"13-10-15","col11":"EUR"}
+{"col1":"14343336/New-York","col2":"New-York","col3":"14343336","col4":"18-01-16","col5":"8","col6":"8","col7":"395.200012","col8":"Drecom","col9":"PO-200088","col10":"17-12-15","col11":"EUR"}
+{"col1":"14343336/New-York","col2":"New-York","col3":"14343336","col4":"13-05-16","col5":"100","col6":"100","col7":"4940.00015","col8":"Drecom","col9":"PO-200150","col10":"1/3/2016","col11":"EUR"}
+{"col1":"14343336/New-York","col2":"New-York","col3":"14343336","col4":"12/10/2016","col5":"100","col6":"0","col7":"4940.00015","col8":"Drecom","col9":"PO-200218","col10":"7/6/2016","col11":"EUR"}
+{"col1":"10764226/New-York","col2":"New-York","col3":"10764226","col4":"5/10/2015","col5":"40","col6":"40","col7":"694.800032","col8":"SuperSupply","col9":"PO-200010","col10":"5/8/2015","col11":"USD"}
+{"col1":"10764226/New-York","col2":"New-York","col3":"10764226","col4":"29-10-15","col5":"40","col6":"40","col7":"694.800032","col8":"SuperSupply","col9":"PO-200022","col10":"11/9/2015","col11":"USD"}
+{"col1":"10764226/New-York","col2":"New-York","col3":"10764226","col4":"7/12/2015","col5":"40","col6":"40","col7":"694.800032","col8":"SuperSupply","col9":"PO-200030","col10":"12/10/2015","col11":"USD"}
+{"col1":"10764226/New-York","col2":"New-York","col3":"10764226","col4":"6/1/2016","col5":"20","col6":"20","col7":"347.400016","col8":"SuperSupply","col9":"PO-200038","col10":"29-10-15","col11":"USD"}
+{"col1":"10764226/New-York","col2":"New-York","col3":"10764226","col4":"15-02-16","col5":"28","col6":"28","col7":"486.3600224","col8":"SuperSupply","col9":"PO-200090","col10":"21-12-15","col11":"USD"}
+{"col1":"10764226/New-York","col2":"New-York","col3":"10764226","col4":"7/6/2016","col5":"60","col6":"60","col7":"1042.200048","col8":"SuperSupply","col9":"PO-200181","col10":"6/4/2016","col11":"USD"}
+{"col1":"15063964/New-York","col2":"New-York","col3":"15063964","col4":"5/10/2015","col5":"40","col6":"40","col7":"36.80000068","col8":"Logipro","col9":"PO-200011","col10":"12/8/2015","col11":"EUR"}
+{"col1":"15063964/New-York","col2":"New-York","col3":"15063964","col4":"29-10-15","col5":"80","col6":"80","col7":"73.60000136","col8":"Logipro","col9":"PO-200022","col10":"11/9/2015","col11":"EUR"}
+{"col1":"15063964/New-York","col2":"New-York","col3":"15063964","col4":"9/2/2016","col5":"60","col6":"60","col7":"55.20000102","col8":"Logipro","col9":"PO-200072","col10":"3/12/2015","col11":"EUR"}
+{"col1":"15063964/New-York","col2":"New-York","col3":"15063964","col4":"7/6/2016","col5":"40","col6":"40","col7":"36.80000068","col8":"Logipro","col9":"PO-200181","col10":"6/4/2016","col11":"EUR"}
+{"col1":"15063964/New-York","col2":"New-York","col3":"15063964","col4":"1/8/2016","col5":"60","col6":"60","col7":"55.20000102","col8":"Logipro","col9":"PO-200215","col10":"2/6/2016","col11":"EUR"}
+{"col1":"15063964/New-York","col2":"New-York","col3":"15063964","col4":"1/1/2001","col5":"40","col6":"0","col7":"36.80000068","col8":"Logipro","col9":"PO-200297","col10":"19-10-16","col11":"EUR"}
+{"col1":"13693084/New-York","col2":"New-York","col3":"13693084","col4":"5/10/2015","col5":"40","col6":"40","col7":"36.80000068","col8":"Logipro","col9":"PO-200010","col10":"5/8/2015","col11":"USD"}
+{"col1":"13693084/New-York","col2":"New-York","col3":"13693084","col4":"29-10-15","col5":"80","col6":"80","col7":"73.60000136","col8":"Logipro","col9":"PO-200022","col10":"11/9/2015","col11":"USD"}
+{"col1":"13693084/New-York","col2":"New-York","col3":"13693084","col4":"9/2/2016","col5":"60","col6":"60","col7":"55.20000102","col8":"Logipro","col9":"PO-200072","col10":"3/12/2015","col11":"USD"}
+{"col1":"13693084/New-York","col2":"New-York","col3":"13693084","col4":"7/6/2016","col5":"40","col6":"40","col7":"36.80000068","col8":"Logipro","col9":"PO-200181","col10":"6/4/2016","col11":"USD"}
+{"col1":"13693084/New-York","col2":"New-York","col3":"13693084","col4":"11/8/2016","col5":"60","col6":"60","col7":"55.20000102","col8":"Logipro","col9":"PO-200229","col10":"17-06-16","col11":"USD"}
+{"col1":"13693084/New-York","col2":"New-York","col3":"13693084","col4":"1/1/2001","col5":"40","col6":"0","col7":"36.80000068","col8":"Logipro","col9":"PO-200297","col10":"19-10-16","col11":"USD"}
+{"col1":"15149291/New-York","col2":"New-York","col3":"15149291","col4":"5/10/2015","col5":"40","col6":"40","col7":"32.00000048","col8":"Logipro","col9":"PO-200010","col10":"5/8/2015","col11":"EUR"}
+{"col1":"15149291/New-York","col2":"New-York","col3":"15149291","col4":"29-10-15","col5":"80","col6":"80","col7":"64.00000096","col8":"Logipro","col9":"PO-200022","col10":"11/9/2015","col11":"EUR"}
+{"col1":"15149291/New-York","col2":"New-York","col3":"15149291","col4":"9/2/2016","col5":"60","col6":"60","col7":"48.00000072","col8":"Logipro","col9":"PO-200072","col10":"3/12/2015","col11":"EUR"}
+{"col1":"15149291/New-York","col2":"New-York","col3":"15149291","col4":"7/6/2016","col5":"40","col6":"40","col7":"32.00000048","col8":"Logipro","col9":"PO-200181","col10":"6/4/2016","col11":"EUR"}
+{"col1":"15149291/New-York","col2":"New-York","col3":"15149291","col4":"1/8/2016","col5":"60","col6":"60","col7":"48.00000072","col8":"Logipro","col9":"PO-200215","col10":"2/6/2016","col11":"EUR"}
+{"col1":"15149291/New-York","col2":"New-York","col3":"15149291","col4":"1/1/2001","col5":"40","col6":"0","col7":"32.00000048","col8":"Logipro","col9":"PO-200297","col10":"19-10-16","col11":"EUR"}
+{"col1":"13751180/New-York","col2":"New-York","col3":"13751180","col4":"5/10/2015","col5":"40","col6":"40","col7":"32.00000048","col8":"Logipro","col9":"PO-200010","col10":"5/8/2015","col11":"USD"}
+{"col1":"13751180/New-York","col2":"New-York","col3":"13751180","col4":"29-10-15","col5":"80","col6":"80","col7":"64.00000096","col8":"Logipro","col9":"PO-200022","col10":"11/9/2015","col11":"USD"}
+{"col1":"13751180/New-York","col2":"New-York","col3":"13751180","col4":"9/2/2016","col5":"60","col6":"60","col7":"48.00000072","col8":"Logipro","col9":"PO-200072","col10":"3/12/2015","col11":"USD"}
+{"col1":"13751180/New-York","col2":"New-York","col3":"13751180","col4":"7/6/2016","col5":"40","col6":"40","col7":"32.00000048","col8":"Logipro","col9":"PO-200181","col10":"6/4/2016","col11":"USD"}
+{"col1":"13751180/New-York","col2":"New-York","col3":"13751180","col4":"1/8/2016","col5":"60","col6":"60","col7":"48.00000072","col8":"Logipro","col9":"PO-200215","col10":"2/6/2016","col11":"USD"}
+{"col1":"13751180/New-York","col2":"New-York","col3":"13751180","col4":"1/1/2001","col5":"40","col6":"0","col7":"32.00000048","col8":"Logipro","col9":"PO-200297","col10":"19-10-16","col11":"USD"}
+{"col1":"14367353/New-York","col2":"New-York","col3":"14367353","col4":"5/8/2015","col5":"35","col6":"35","col7":"1477.000028","col8":"Drecom","col9":"102197","col10":"27-05-15","col11":"GBP"}
+{"col1":"14367353/New-York","col2":"New-York","col3":"14367353","col4":"30-10-15","col5":"100","col6":"100","col7":"4220.00008","col8":"Drecom","col9":"PO-200019","col10":"9/9/2015","col11":"GBP"}
+{"col1":"14367353/New-York","col2":"New-York","col3":"14367353","col4":"26-05-16","col5":"80","col6":"80","col7":"3376.000064","col8":"Drecom","col9":"PO-200174","col10":"29-03-16","col11":"GBP"}
+{"col1":"14367353/New-York","col2":"New-York","col3":"14367353","col4":"7/6/2016","col5":"20","col6":"20","col7":"844.000016","col8":"Drecom","col9":"PO-200181","col10":"6/4/2016","col11":"GBP"}
+{"col1":"14367353/New-York","col2":"New-York","col3":"14367353","col4":"1/1/2001","col5":"100","col6":"0","col7":"4220.00008","col8":"Drecom","col9":"PO-200289","col10":"28-09-16","col11":"GBP"}
+{"col1":"10014552/New-York","col2":"New-York","col3":"10014552","col4":"5/10/2015","col5":"20","col6":"20","col7":"147.3999978","col8":"FHL","col9":"PO-200012","col10":"14-08-15","col11":"GBP"}
+{"col1":"10014552/New-York","col2":"New-York","col3":"10014552","col4":"29-10-15","col5":"20","col6":"20","col7":"147.3999978","col8":"FHL","col9":"PO-200023","col10":"15-09-15","col11":"GBP"}
+{"col1":"10014552/New-York","col2":"New-York","col3":"10014552","col4":"10/2/2016","col5":"10","col6":"10","col7":"73.6999989","col8":"FHL","col9":"PO-200080","col10":"10/12/2015","col11":"GBP"}
+{"col1":"10014552/New-York","col2":"New-York","col3":"10014552","col4":"12/2/2016","col5":"10","col6":"10","col7":"73.6999989","col8":"FHL","col9":"PO-200087","col10":"17-12-15","col11":"GBP"}
+{"col1":"10014552/New-York","col2":"New-York","col3":"10014552","col4":"26-05-16","col5":"20","col6":"20","col7":"147.3999978","col8":"FHL","col9":"PO-200174","col10":"29-03-16","col11":"GBP"}
+{"col1":"10014552/New-York","col2":"New-York","col3":"10014552","col4":"1/1/2001","col5":"10","col6":"0","col7":"73.6999989","col8":"FHL","col9":"PO-200302","col10":"26-10-16","col11":"GBP"}
+{"col1":"11557472/New-York","col2":"New-York","col3":"11557472","col4":"27-01-16","col5":"205","col6":"205","col7":"5001.999918","col8":"SuperSupply","col9":"PO-200032","col10":"20-10-15","col11":"GBP"}
+{"col1":"11557472/New-York","col2":"New-York","col3":"11557472","col4":"17-03-16","col5":"235","col6":"235","col7":"5733.999906","col8":"SuperSupply","col9":"PO-200076","col10":"4/12/2015","col11":"GBP"}
+{"col1":"11557472/New-York","col2":"New-York","col3":"11557472","col4":"19-05-16","col5":"150","col6":"150","col7":"3659.99994","col8":"SuperSupply","col9":"PO-200140","col10":"16-02-16","col11":"GBP"}
+{"col1":"11557472/New-York","col2":"New-York","col3":"11557472","col4":"20-06-16","col5":"186","col6":"186","col7":"4538.399926","col8":"SuperSupply","col9":"PO-200163","col10":"16-03-16","col11":"GBP"}
+{"col1":"13594853/New-York","col2":"New-York","col3":"13594853","col4":"27-01-16","col5":"205","col6":"205","col7":"5001.999918","col8":"Drecom","col9":"PO-200032","col10":"20-10-15","col11":"USD"}
+{"col1":"13594853/New-York","col2":"New-York","col3":"13594853","col4":"17-03-16","col5":"235","col6":"235","col7":"5733.999906","col8":"Drecom","col9":"PO-200076","col10":"4/12/2015","col11":"USD"}
+{"col1":"13594853/New-York","col2":"New-York","col3":"13594853","col4":"19-05-16","col5":"150","col6":"150","col7":"3659.99994","col8":"Drecom","col9":"PO-200140","col10":"16-02-16","col11":"USD"}
+{"col1":"13594853/New-York","col2":"New-York","col3":"13594853","col4":"20-06-16","col5":"186","col6":"186","col7":"4538.399926","col8":"Drecom","col9":"PO-200163","col10":"16-03-16","col11":"USD"}
+{"col1":"13336372/New-York","col2":"New-York","col3":"13336372","col4":"5/10/2015","col5":"20","col6":"20","col7":"611.19999","col8":"Office First","col9":"PO-200006","col10":"3/8/2015","col11":"EUR"}
+{"col1":"13336372/New-York","col2":"New-York","col3":"13336372","col4":"29-10-15","col5":"20","col6":"20","col7":"611.19999","col8":"Office First","col9":"PO-200022","col10":"11/9/2015","col11":"EUR"}
+{"col1":"13336372/New-York","col2":"New-York","col3":"13336372","col4":"20-05-16","col5":"28","col6":"28","col7":"855.679986","col8":"Office First","col9":"PO-200096","col10":"4/1/2016","col11":"EUR"}
+{"col1":"13336372/New-York","col2":"New-York","col3":"13336372","col4":"5/8/2016","col5":"1","col6":"1","col7":"30.5599995","col8":"Office First","col9":"PO-200246","col10":"28-07-16","col11":"EUR"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"5/10/2015","col5":"40","col6":"40","col7":"1711.600036","col8":"Drecom","col9":"PO-200011","col10":"12/8/2015","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"5/10/2015","col5":"28","col6":"28","col7":"1198.120025","col8":"Drecom","col9":"PO-200012","col10":"14-08-15","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"26-10-15","col5":"24","col6":"24","col7":"1026.960022","col8":"Drecom","col9":"PO-200017","col10":"31-08-15","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"18-01-16","col5":"28","col6":"28","col7":"1198.120025","col8":"Drecom","col9":"PO-200059","col10":"18-11-15","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"29-04-16","col5":"32","col6":"32","col7":"1369.280029","col8":"Drecom","col9":"PO-200143","col10":"18-02-16","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"31-05-16","col5":"24","col6":"24","col7":"1026.960022","col8":"Drecom","col9":"PO-200175","col10":"30-03-16","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"17-06-16","col5":"16","col6":"16","col7":"684.6400144","col8":"Drecom","col9":"PO-200191","col10":"19-04-16","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"23-06-16","col5":"12","col6":"12","col7":"513.4800108","col8":"Drecom","col9":"PO-200198","col10":"26-04-16","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"1/8/2016","col5":"40","col6":"40","col7":"1711.600036","col8":"Drecom","col9":"PO-200215","col10":"2/6/2016","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"11/8/2016","col5":"20","col6":"20","col7":"855.800018","col8":"Drecom","col9":"PO-200230","col10":"21-06-16","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"19-10-16","col5":"40","col6":"0","col7":"1711.600036","col8":"Drecom","col9":"PO-200273","col10":"25-08-16","col11":"GBP"}
+{"col1":"15808622/New-York","col2":"New-York","col3":"15808622","col4":"27-10-16","col5":"40","col6":"0","col7":"1711.600036","col8":"Drecom","col9":"PO-200275","col10":"31-08-16","col11":"GBP"}
+{"col1":"9952426/New-York","col2":"New-York","col3":"9952426","col4":"7/6/2016","col5":"12","col6":"12","col7":"772.5599676","col8":"FHL","col9":"PO-200181","col10":"6/4/2016","col11":"GBP"}
+{"col1":"12956674/New-York","col2":"New-York","col3":"12956674","col4":"7/6/2016","col5":"12","col6":"12","col7":"772.5599676","col8":"Logipro","col9":"PO-200181","col10":"6/4/2016","col11":"EUR"}
+{"col1":"15034737/New-York","col2":"New-York","col3":"15034737","col4":"26-10-15","col5":"12","col6":"12","col7":"598.199982","col8":"Logipro","col9":"PO-200017","col10":"31-08-15","col11":"EUR"}
+{"col1":"15034737/New-York","col2":"New-York","col3":"15034737","col4":"15-02-16","col5":"28","col6":"28","col7":"1395.799958","col8":"Logipro","col9":"PO-200090","col10":"21-12-15","col11":"EUR"}
+{"col1":"15034737/New-York","col2":"New-York","col3":"15034737","col4":"26-07-16","col5":"12","col6":"12","col7":"598.199982","col8":"Logipro","col9":"PO-200204","col10":"12/5/2016","col11":"EUR"}
+{"col1":"15034737/New-York","col2":"New-York","col3":"15034737","col4":"11/8/2016","col5":"8","col6":"8","col7":"398.799988","col8":"Logipro","col9":"PO-200229","col10":"17-06-16","col11":"EUR"}
+{"col1":"15034737/New-York","col2":"New-York","col3":"15034737","col4":"1/1/2001","col5":"12","col6":"0","col7":"598.199982","col8":"Logipro","col9":"PO-200293","col10":"4/10/2016","col11":"EUR"}
+{"col1":"13452029/New-York","col2":"New-York","col3":"13452029","col4":"26-10-15","col5":"16","col6":"16","col7":"797.599976","col8":"RRD","col9":"PO-200017","col10":"31-08-15","col11":"USD"}
+{"col1":"13452029/New-York","col2":"New-York","col3":"13452029","col4":"15-02-16","col5":"28","col6":"28","col7":"1395.799958","col8":"RRD","col9":"PO-200090","col10":"21-12-15","col11":"USD"}
+{"col1":"13452029/New-York","col2":"New-York","col3":"13452029","col4":"26-07-16","col5":"16","col6":"16","col7":"797.599976","col8":"RRD","col9":"PO-200204","col10":"12/5/2016","col11":"USD"}
+{"col1":"13452029/New-York","col2":"New-York","col3":"13452029","col4":"29-08-16","col5":"12","col6":"12","col7":"598.199982","col8":"RRD","col9":"PO-200232","col10":"30-06-16","col11":"USD"}
+{"col1":"13452029/New-York","col2":"New-York","col3":"13452029","col4":"1/1/2001","col5":"12","col6":"0","col7":"598.199982","col8":"RRD","col9":"PO-200293","col10":"4/10/2016","col11":"USD"}
+{"col1":"16595101/New-York","col2":"New-York","col3":"16595101","col4":"5/10/2015","col5":"60","col6":"60","col7":"1177.799952","col8":"FHL","col9":"PO-200006","col10":"3/8/2015","col11":"EUR"}
+{"col1":"16595101/New-York","col2":"New-York","col3":"16595101","col4":"5/10/2015","col5":"32","col6":"32","col7":"628.1599744","col8":"FHL","col9":"PO-200012","col10":"14-08-15","col11":"EUR"}
+{"col1":"16595101/New-York","col2":"New-York","col3":"16595101","col4":"15-01-16","col5":"20","col6":"20","col7":"392.599984","col8":"FHL","col9":"PO-200048","col10":"5/11/2015","col11":"EUR"}
+{"col1":"16595101/New-York","col2":"New-York","col3":"16595101","col4":"15-02-16","col5":"40","col6":"40","col7":"785.199968","col8":"FHL","col9":"PO-200090","col10":"21-12-15","col11":"EUR"}
